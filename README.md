@@ -12,13 +12,13 @@ Of course, you will need your own `BOT_TOKEN` in some `.env` file, in the follow
 BOT_TOKEN=YOUR_TOKEN_FROM_discord.com/developers/applications
 ```
 
-Then, `liftie-bot.py` simply responds to `!lift <resort>` commands.
+Then, `liftie-bot.py` simply responds to (slash commands) `/lift <resort>` commands and autocompletes them.
 
 For example:
 
-`!lifts killington`.
+`/lifts` and start typing `loaf`, the bot will filter all resorts with `loaf`, such as `sugarloaf`. 
 
-There is also a node.js version of the script.
+There is also a (**untested**) node.js version of the script.
 
 Also added are test files:
 `fetch_lift_status_from_local.py` and `liftie.html`.
