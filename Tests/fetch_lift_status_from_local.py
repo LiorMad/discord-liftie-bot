@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 file_path = 'liftie.html'
 
 # Path to the output JSON file
-output_file_path = 'lifts_status.json'
+output_file_path = '../lifts_status.json'
 
 # Open and read the HTML content from the file
 with open(file_path, 'r', encoding='utf-8') as file:
