@@ -1,14 +1,21 @@
-# Use an official Python runtime as a parent image
-FROM python:3.9-slim
+# Use an official lightweight Python image
+FROM python:3.11-slim
 
-# Set the working directory inside the container
+# Set the working directory in the container
 WORKDIR /app
 
-# Copy the current directory contents into the container at /app
-COPY . /app
+# Install vim as part of the build process
+RUN apt-get update && apt-get install -y vim
 
-# Install any necessary dependencies
+# Copy requirements.txt and install dependencies
+COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 
-# Command to run the bot when the container starts
-CMD ["python", "bot.py"]
+# Copy the rest of the bot's code into the container
+COPY . .
+
+## Ensure the .env file is available (optional, but recommended)
+#ENV BOT_TOKEN=${BOT_TOKEN}
+
+# Run the bot when the container starts
+CMD ["python", "-m", "bot/liftie-bot.py"]
