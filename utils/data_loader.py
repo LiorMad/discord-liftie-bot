@@ -1,6 +1,6 @@
 import json
 
-lifts_file = "../data/lifts_status.json"
+lifts_file = "data/lifts_status.json"
 
 def load_resorts():
     """Load all resorts from the JSON file."""
