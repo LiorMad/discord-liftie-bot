@@ -22,3 +22,5 @@ There is also a (**outdated**) node.js version of the script.
 
 Also added are test files:
 `fetch_lift_status_from_local.py` and `liftie.html`.
+
+It should be easy enough to create a Docker image out of these files and use the image, but it's out of scope for now (though it's tested and it works).
