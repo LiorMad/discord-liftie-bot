@@ -5,7 +5,7 @@ Very much WIP, and for fun.
 
 The concept is to "cache" https://liftie.info/ on demand to avoid loading their website using `fetch_lift_status_from_liftie.py`.
 
-It downloads information to `lifts_status.json`.
+It downloads information to `data/lifts_status.json`.
 
 Of course, you will need your own `BOT_TOKEN` in some `.env` file, in the following format:
 ```
@@ -18,7 +18,7 @@ For example:
 
 `/lifts` and start typing `loaf`, the bot will filter all resorts with `loaf`, such as `sugarloaf`. 
 
-There is also a (**untested**) node.js version of the script.
+There is also a (**outdated**) node.js version of the script.
 
 Also added are test files:
 `fetch_lift_status_from_local.py` and `liftie.html`.
