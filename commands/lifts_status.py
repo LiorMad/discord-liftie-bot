@@ -2,17 +2,17 @@ import discord
 from discord import app_commands
 from utils.data_loader import load_resorts
 
-# Load resort data
+# Load resort data and filter out resorts with no lifts
 resorts_data = load_resorts()
-ALL_RESORTS = [resort["resort"] for resort in resorts_data]  # Extract resort names
+ALL_RESORTS = [resort['resort'] for resort in resorts_data if resort['lifts']]  # Extract resort names
 
 
+# Auto-complete function (filters resorts dynamically)
 async def resort_autocomplete(interaction: discord.Interaction, current: str):
-    """Autocomplete function for resort names (limited to 25 options)."""
     return [
         app_commands.Choice(name=resort, value=resort)
         for resort in ALL_RESORTS if current.lower() in resort.lower()
-    ][:25]  # Discord allows a max of 25 choices
+    ][:25]  # Limit to 25 options
 
 
 @app_commands.command(name="lifts", description="Get lift status for a resort")
