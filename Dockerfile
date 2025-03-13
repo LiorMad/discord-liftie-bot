@@ -18,4 +18,4 @@ COPY . .
 #ENV BOT_TOKEN=${BOT_TOKEN}
 
 # Run the bot when the container starts
-CMD ["python", "-m", "bot/liftie-bot.py"]
+CMD ["python", "-m", "bot.liftie-bot"]
