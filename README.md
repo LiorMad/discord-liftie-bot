@@ -1,9 +1,11 @@
 # discord-liftie-bot
 Relying on https://github.com/pirxpilot/liftie, this Discord bot is able to retrieve ski area lift status and display them in Discord with a command.
 
+The bot is ready to be containerized with a Dockerfile and be worked on using [Devcontainer](http://devcontainers.github.io/).
+
 Very much WIP, and for fun.
 
-The concept is to "cache" https://liftie.info/ on demand to avoid loading their website using `fetch_lift_status_from_liftie.py`.
+The concept is to "cache" https://liftie.info every 30 minutes to avoid loading their website, using `fetch_lift_status_from_liftie.py`.
 
 It downloads information to `data/lifts_status.json`.
 
@@ -22,5 +24,3 @@ There is also a (**outdated**) node.js version of the script.
 
 Also added are test files:
 `fetch_lift_status_from_local.py` and `liftie.html`.
-
-It should be easy enough to create a Docker image out of these files and use the image, but it's out of scope for now (though it's tested and it works).
