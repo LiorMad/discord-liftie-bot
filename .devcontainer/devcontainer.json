@@ -19,8 +19,7 @@
   "customizations" : {
     "jetbrains" : {
       "settings": {
-        "com.intellij:app:HttpConfigurable.use_proxy_pac": true,
-        "com.intellij": "/usr/local/bin/python"
+        "com.intellij:app:HttpConfigurable.use_proxy_pac": true
       },
       "backend" : "PyCharm"
     }

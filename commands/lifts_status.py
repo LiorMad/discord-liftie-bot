@@ -2,13 +2,12 @@ import discord
 from discord import app_commands
 from utils.data_loader import load_resorts
 
-# Load resort data and filter out resorts with no lifts
-resorts_data = load_resorts()
-ALL_RESORTS = [resort['resort'] for resort in resorts_data if resort['lifts']]  # Extract resort names
-
-
 # Auto-complete function (filters resorts dynamically)
 async def resort_autocomplete(interaction: discord.Interaction, current: str):
+    # Always load the most recent data here
+    resorts_data = load_resorts()
+    ALL_RESORTS = [resort['resort'] for resort in resorts_data if resort['lifts']]  # Extract resort names
+
     return [
         app_commands.Choice(name=resort, value=resort)
         for resort in ALL_RESORTS if current.lower() in resort.lower()
@@ -19,6 +18,9 @@ async def resort_autocomplete(interaction: discord.Interaction, current: str):
 @app_commands.autocomplete(resort=resort_autocomplete)
 async def lifts(interaction: discord.Interaction, resort: str):
     """Handles the /lifts command to return lift status for a given resort."""
+    # Always load the most recent data here
+    resorts_data = load_resorts()
+
     resort_data = next((r for r in resorts_data if r["resort"].lower() == resort.lower()), None)
 
     if not resort_data:

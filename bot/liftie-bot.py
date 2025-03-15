@@ -14,7 +14,6 @@ intents = discord.Intents.default()
 client = discord.Client(intents=intents)
 tree = app_commands.CommandTree(client)
 
-
 # Register commands
 @client.event
 async def on_ready():

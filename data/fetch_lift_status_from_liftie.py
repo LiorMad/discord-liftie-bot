@@ -1,13 +1,17 @@
 import json
 import requests
 from bs4 import BeautifulSoup
+import os
 
 
 # URL to query data from
 url = 'https://liftie.info/'
 
-# Path to the output JSON file
-output_file_path = 'lifts_status.json'
+# Get the absolute path of the directory containing this script
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+
+# Define the absolute path for the output JSON file
+output_file_path = os.path.join(BASE_DIR, 'lifts_status.json')
 
 # Send a GET request to the URL
 response = requests.get(url)
