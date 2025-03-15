@@ -109,7 +109,7 @@
         "lifts": [
             {
                 "name": "Alpine Bowl Chair",
-                "status": "Closed"
+                "status": "Open"
             },
             {
                 "name": "Base to Base Gondola to Palisades",
@@ -121,15 +121,15 @@
             },
             {
                 "name": "Kangaroo",
-                "status": "Closed"
+                "status": "Open"
             },
             {
                 "name": "Lakeview",
-                "status": "Scheduled"
+                "status": "Open"
             },
             {
                 "name": "Little Carpet",
-                "status": "Scheduled"
+                "status": "Open"
             },
             {
                 "name": "Meadow",
@@ -141,11 +141,11 @@
             },
             {
                 "name": "Scott",
-                "status": "Scheduled"
+                "status": "Open"
             },
             {
                 "name": "Sherwood Express",
-                "status": "Scheduled"
+                "status": "Open"
             },
             {
                 "name": "Subway",
@@ -157,11 +157,11 @@
             },
             {
                 "name": "Treeline Cirque",
-                "status": "Scheduled"
+                "status": "Open"
             },
             {
                 "name": "Yellow",
-                "status": "Closed"
+                "status": "Open"
             }
         ]
     },
@@ -170,23 +170,23 @@
         "lifts": [
             {
                 "name": "Sunnyside",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Supreme",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Sugarloaf",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Collins",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Wildcat",
-                "status": "Open"
+                "status": "Closed"
             }
         ]
     },
@@ -320,11 +320,11 @@
             },
             {
                 "name": "Malga - Serauta",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Serauta- P.Rocca",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Padon",
@@ -349,23 +349,23 @@
         "lifts": [
             {
                 "name": "Exhibition",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Thunderbowl",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Cloud Nine",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Deep Temerity",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Loge Peak",
-                "status": "Open"
+                "status": "Closed"
             }
         ]
     },
@@ -448,43 +448,43 @@
         "lifts": [
             {
                 "name": "Arrow Bahn Express",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Bachelor Gulch Express",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Bibber Bahn",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Birds of Prey Express",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Centennial Express",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Cinch Express",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Elkhorn Lift",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Grouse Mountain Express",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Haymeadow Express",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Highlands Lift",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Jitterbug",
@@ -492,59 +492,59 @@
             },
             {
                 "name": "Larkspur Express",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Lower BC Mtn Express",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Magic Carpet",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "McCoy Park Express",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Red Buffalo Express",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Reunion Lift",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Ritz Bahn",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Riverfront Express Gondola",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Rose Bowl Express",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Snowflake",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Strawberry Park Express",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Trail Rider",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Upper BC Mtn Express",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Wagon Train",
-                "status": "Open"
+                "status": "Scheduled"
             }
         ]
     },
@@ -553,7 +553,7 @@
         "lifts": [
             {
                 "name": "T-Bar Express Quad",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Summit Quad",
@@ -561,7 +561,7 @@
             },
             {
                 "name": "Top Notch Double",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Wilderness Peak Quad",
@@ -569,7 +569,7 @@
             },
             {
                 "name": "Bobcat Magic Carpet",
-                "status": "Open"
+                "status": "Closed"
             }
         ]
     },
@@ -590,7 +590,7 @@
             },
             {
                 "name": "Dakota 3",
-                "status": "Closed"
+                "status": "Open"
             },
             {
                 "name": "Derringer 4",
@@ -630,7 +630,7 @@
             },
             {
                 "name": "Lone Peak Tram",
-                "status": "Closed"
+                "status": "Open"
             },
             {
                 "name": "Lone Tree 4",
@@ -865,15 +865,15 @@
         "lifts": [
             {
                 "name": "Deer Point Express",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Morning Star Express",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Superior Express",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Showcase Chair",
@@ -881,27 +881,27 @@
             },
             {
                 "name": "Bitterroot Chair",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Pine Creek Express",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Coach Chairlift",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Easy Rider Carpet",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Discovery Carpet",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Explorer Carpet",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Terrain Parks",
@@ -938,7 +938,7 @@
             },
             {
                 "name": "Wilderness",
-                "status": "Closed"
+                "status": "Open"
             }
         ]
     },
@@ -955,15 +955,15 @@
             },
             {
                 "name": "California Cruiser Quad Chairlift",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Discovery Carpet",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Cedar Ridge Triple Chairlift",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "49er Triple Chairlift",
@@ -971,11 +971,11 @@
             },
             {
                 "name": "Lost Dutchman Triple Chairlift",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Tahoe Tubing Carpet",
-                "status": "Open"
+                "status": "Closed"
             }
         ]
     },
@@ -984,7 +984,7 @@
         "lifts": [
             {
                 "name": "6-Chair",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "A-Chair",
@@ -992,35 +992,35 @@
             },
             {
                 "name": "Admin Carpet 1",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Admin Carpet 2",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Beaver Run SuperChair",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "BR Adult Carpet",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "BR Kids Carpet",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "BreckConnect Gondola",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Camelback Carpet",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Camelback Platter",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "C-Chair",
@@ -1028,15 +1028,15 @@
             },
             {
                 "name": "Colorado SuperChair",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "E-Chair",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "El Dorado Carpet",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "El Dorado Platter",
@@ -1044,83 +1044,83 @@
             },
             {
                 "name": "Falcon SuperChair",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Five SuperChair",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Freedom SuperChair",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Horseshoe Bowl T-Bar",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Imperial SuperChair",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Independence SuperChair",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Kensho SuperChair",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Mercury SuperChair",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Peak 8 Kids Carpet 1",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Peak 8 Kids Carpet 2",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Peak 8 SuperConnect",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Quicksilver SuperChair",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Rip's Ride",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Rocky Mountain SuperChair",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Snowflake",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Trygve's Platter",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Tweener Carpet",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Village Carpet A",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Village Carpet B",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Zendo Chair",
-                "status": "Open"
+                "status": "Scheduled"
             }
         ]
     },
@@ -1149,7 +1149,7 @@
             },
             {
                 "name": "Roulette, Chair 5",
-                "status": "Scheduled"
+                "status": "Open"
             },
             {
                 "name": "Pioneer, Chair 6",
@@ -1157,7 +1157,7 @@
             },
             {
                 "name": "The Dunes, Chair 7",
-                "status": "Scheduled"
+                "status": "Open"
             },
             {
                 "name": "Alpen Glow, Chair 8",
@@ -1198,7 +1198,7 @@
             },
             {
                 "name": "Schlasman's",
-                "status": "Closed"
+                "status": "Open"
             },
             {
                 "name": "Sundog",
@@ -1291,6 +1291,10 @@
                 "status": "Open"
             },
             {
+                "name": ".holdIcon{fill:#e3a600}",
+                "status": "Hold"
+            },
+            {
                 "name": ".gladeIcon{fill:#5d5d5d}",
                 "status": "Closed"
             },
@@ -1359,7 +1363,7 @@
             },
             {
                 "name": "The Glen",
-                "status": "Closed"
+                "status": "Open"
             },
             {
                 "name": "Cleopatra",
@@ -1478,14 +1482,19 @@
     },
     {
         "resort": "canada-olympic-park",
-        "lifts": []
+        "lifts": [
+            {
+                "name": "West Road Access",
+                "status": "Closed"
+            }
+        ]
     },
     {
         "resort": "cannon",
         "lifts": [
             {
                 "name": "Aerial Tramway",
-                "status": "Closed"
+                "status": "Open"
             },
             {
                 "name": "Cannonball Quad Chair",
@@ -1513,7 +1522,7 @@
             },
             {
                 "name": "Mittersill Double",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Valar T-Bar",
@@ -2188,7 +2197,7 @@
         "lifts": [
             {
                 "name": "Chair 1",
-                "status": "Scheduled"
+                "status": "Open"
             },
             {
                 "name": "Chair 2",
@@ -2196,7 +2205,7 @@
             },
             {
                 "name": "Chair 4",
-                "status": "Scheduled"
+                "status": "Open"
             },
             {
                 "name": "Chair 5",
@@ -2208,15 +2217,15 @@
             },
             {
                 "name": "Chair 7",
-                "status": "Scheduled"
+                "status": "Open"
             },
             {
                 "name": "Kids Carpet",
-                "status": "Scheduled"
+                "status": "Open"
             },
             {
                 "name": "Boulder Carpet",
-                "status": "Scheduled"
+                "status": "Open"
             },
             {
                 "name": "Juniper Carpet",
@@ -2471,11 +2480,11 @@
             },
             {
                 "name": "Croda Negra",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Fedare",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Skyline Cortina",
@@ -2604,7 +2613,7 @@
             },
             {
                 "name": "Flying Carpet",
-                "status": "Closed"
+                "status": "Open"
             },
             {
                 "name": "Lookout Triple",
@@ -2628,7 +2637,7 @@
             },
             {
                 "name": "Giant Swing",
-                "status": "Closed"
+                "status": "Open"
             },
             {
                 "name": "Mountain Coaster",
@@ -2636,11 +2645,11 @@
             },
             {
                 "name": "Soaring Eagle",
-                "status": "Closed"
+                "status": "Open"
             },
             {
                 "name": "Tubing Park",
-                "status": "Closed"
+                "status": "Open"
             }
         ]
     },
@@ -2658,63 +2667,63 @@
         "lifts": [
             {
                 "name": "Aspen Carpet",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "East River Express",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Gold Link Lift",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "High Lift T-Bar",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "North Face Lift T-Bar",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Painter Boy Lift",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Paradise Express",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Peachtree Lift",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Pine Carpet",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Prospect Lift",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Red Lady Express",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Silver Queen Express",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Spruce Carpet",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Teocalli Lift",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "West Wall Lift",
-                "status": "Open"
+                "status": "Scheduled"
             }
         ]
     },
@@ -2792,7 +2801,7 @@
             },
             {
                 "name": "Empire Express",
-                "status": "Hold"
+                "status": "Open"
             },
             {
                 "name": "Homestake Express",
@@ -2820,7 +2829,7 @@
             },
             {
                 "name": "Mayflower",
-                "status": "Hold"
+                "status": "Open"
             },
             {
                 "name": "Mountaineer Express",
@@ -2949,10 +2958,6 @@
         "resort": "flims-laax-falera",
         "lifts": [
             {
-                "name": "Caumasee",
-                "status": "Open"
-            },
-            {
                 "name": "Alp Dado",
                 "status": "Scheduled"
             },
@@ -2993,6 +2998,14 @@
                 "status": "Scheduled"
             },
             {
+                "name": "Fuorcla - Masegn",
+                "status": "Scheduled"
+            },
+            {
+                "name": "Fuorcla - Vorab",
+                "status": "Scheduled"
+            },
+            {
                 "name": "Ils Plauns I",
                 "status": "Scheduled"
             },
@@ -3010,6 +3023,10 @@
             },
             {
                 "name": "Larnags - Curnius (2. Sektion)",
+                "status": "Scheduled"
+            },
+            {
+                "name": "Lavadinas - Fuorcla da Sagogn",
                 "status": "Scheduled"
             },
             {
@@ -3037,35 +3054,27 @@
                 "status": "Scheduled"
             },
             {
+                "name": "Sogn Martin - La Siala",
+                "status": "Scheduled"
+            },
+            {
                 "name": "Treis Palas - Crap Masegn",
                 "status": "Scheduled"
             },
             {
-                "name": "Fuorcla - Masegn",
-                "status": "Closed"
+                "name": "Vorab Gletscher I links",
+                "status": "Scheduled"
             },
             {
-                "name": "Fuorcla - Vorab",
-                "status": "Closed"
+                "name": "Vorab Gletscher II rechts",
+                "status": "Scheduled"
             },
             {
-                "name": "Lavadinas - Fuorcla da Sagogn",
-                "status": "Closed"
-            },
-            {
-                "name": "Sogn Martin - La Siala",
+                "name": "Caumasee",
                 "status": "Closed"
             },
             {
                 "name": "Spalegna",
-                "status": "Closed"
-            },
-            {
-                "name": "Vorab Gletscher I links",
-                "status": "Closed"
-            },
-            {
-                "name": "Vorab Gletscher II rechts",
                 "status": "Closed"
             }
         ]
@@ -3351,7 +3360,7 @@
         "lifts": [
             {
                 "name": "E.Z. Carpet",
-                "status": "Closed"
+                "status": "Open"
             },
             {
                 "name": "Panorama",
@@ -3388,107 +3397,107 @@
         "lifts": [
             {
                 "name": "Bear Cave",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Big Easy",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Boulder",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Boulder Carpet",
-                "status": "Closed"
+                "status": "Scheduled"
             },
             {
                 "name": "Canyon",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Comet",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Dipper",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "DMZ",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Enchanted Forest",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "First Ride",
-                "status": "Closed"
+                "status": "Scheduled"
             },
             {
                 "name": "Galaxy",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Gondola",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Groove",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Gunbarrel",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Mott",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "North Bowl",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Olympic",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Patsy's",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Pioneer",
-                "status": "Closed"
+                "status": "Scheduled"
             },
             {
                 "name": "Powderbowl",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Red Fir",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Sky",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Stagecoach",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Tamarack",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "The Tram",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Tube Lift",
-                "status": "Closed"
+                "status": "Scheduled"
             },
             {
                 "name": "World Cup",
@@ -3513,7 +3522,7 @@
             },
             {
                 "name": "6er Sesselbahn Waidoffen",
-                "status": "Closed"
+                "status": "Open"
             },
             {
                 "name": "DSL Pfaffenb\u00c3\u00bchel",
@@ -3589,7 +3598,7 @@
             },
             {
                 "name": "\u00c3\u0096felerbahn",
-                "status": "Closed"
+                "status": "Open"
             },
             {
                 "name": "Panoramalift",
@@ -3743,7 +3752,7 @@
             },
             {
                 "name": "Zephyr Express",
-                "status": "Closed"
+                "status": "Scheduled"
             }
         ]
     },
@@ -3756,55 +3765,55 @@
         "lifts": [
             {
                 "name": "Teton Quad",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Eagle's Rest Quad",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Moose Creek Quad",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Sweetwater Gondola",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Apres Vous Quad",
-                "status": "Hold"
+                "status": "Scheduled"
             },
             {
                 "name": "Teewinot Quad",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Union Pass Quad",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Marmot Double",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Casper Quad",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Sublette Quad",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Aerial Tram",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Bridger Gondola",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Thunder Quad",
-                "status": "Open"
+                "status": "Scheduled"
             }
         ]
     },
@@ -3858,31 +3867,31 @@
         "lifts": [
             {
                 "name": "J1",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "J2",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "J3",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "J4",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "J6",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "J7",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Public Carpet",
-                "status": "Open"
+                "status": "Closed"
             }
         ]
     },
@@ -3891,87 +3900,87 @@
         "lifts": [
             {
                 "name": "A-51",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Bergman Express",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Cadillac",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Discovery",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Double Barrel 1",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Double Barrel 2",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Kokomo",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Mid-Station Ski School",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Montezuma Express",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Outback Express",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Outpost Gondola",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Peru Express",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Ranger",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "River Run Gondola",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Ruby Express",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Santiago Express",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Summit Express",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Sun Kid",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Triangle",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Tubing Hill",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Wayback",
-                "status": "Open"
+                "status": "Scheduled"
             }
         ]
     },
@@ -3984,7 +3993,7 @@
             },
             {
                 "name": "Tubing Park Tow",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Sunrise Village Triple",
@@ -4032,7 +4041,7 @@
             },
             {
                 "name": "Snowdon Triple",
-                "status": "Closed"
+                "status": "Scheduled"
             },
             {
                 "name": "Snowdon Six Express",
@@ -4094,23 +4103,23 @@
         "lifts": [
             {
                 "name": "#1 Snowkirk",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "#10 The Wall",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "#11 The Reut",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "#12 Ski School Magic Carpet",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "#13 Public Magic Carpet",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "#14 Vista T-Bar",
@@ -4118,31 +4127,31 @@
             },
             {
                 "name": "#2 Caples Crest",
-                "status": "Closed"
+                "status": "Scheduled"
             },
             {
                 "name": "#3 Iron Horse",
-                "status": "Closed"
+                "status": "Scheduled"
             },
             {
                 "name": "#4 Sunrise",
-                "status": "Closed"
+                "status": "Scheduled"
             },
             {
                 "name": "#5 Solitude",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "#6 Cornice Express",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "#7 TC Express",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "#9 Bunny",
-                "status": "Open"
+                "status": "Scheduled"
             }
         ]
     },
@@ -4154,16 +4163,12 @@
         "resort": "lamolina",
         "lifts": [
             {
-                "name": "TSC Trampol\u00c3\u00ad",
-                "status": "Open"
-            },
-            {
                 "name": "TSC Pista Llarga",
                 "status": "Open"
             },
             {
                 "name": "TSC Fontcanaleta",
-                "status": "Closed"
+                "status": "Open"
             },
             {
                 "name": "TSC El Llac",
@@ -4178,7 +4183,7 @@
                 "status": "Open"
             },
             {
-                "name": "CT Johan Cruyff",
+                "name": "TSC Trampol\u00c3\u00ad",
                 "status": "Open"
             },
             {
@@ -4191,6 +4196,10 @@
             },
             {
                 "name": "CT Debutants",
+                "status": "Open"
+            },
+            {
+                "name": "CT Johan Cruyff",
                 "status": "Open"
             },
             {
@@ -4312,7 +4321,7 @@
             },
             {
                 "name": "FRANCE - ITALIE",
-                "status": "Scheduled"
+                "status": "Closed"
             },
             {
                 "name": "BELVEDERE",
@@ -4364,7 +4373,7 @@
             },
             {
                 "name": "ARNOUVAZ",
-                "status": "Closed"
+                "status": "Scheduled"
             },
             {
                 "name": "DMC LES SUCHES",
@@ -4441,15 +4450,15 @@
             },
             {
                 "name": "Slittinovia",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Cisk",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Penner",
-                "status": "Open"
+                "status": "Closed"
             }
         ]
     },
@@ -4498,7 +4507,7 @@
             },
             {
                 "name": "Funiculaire",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Arpette",
@@ -4538,7 +4547,7 @@
             },
             {
                 "name": "Dahu",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Transarc 1",
@@ -4578,7 +4587,7 @@
             },
             {
                 "name": "Aiguille Rouge..",
-                "status": "Closed"
+                "status": "Scheduled"
             },
             {
                 "name": "Varet",
@@ -4646,7 +4655,7 @@
             },
             {
                 "name": "Cabriolet",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Droset",
@@ -4804,7 +4813,7 @@
             },
             {
                 "name": "River's Edge Double",
-                "status": "Closed"
+                "status": "Open"
             },
             {
                 "name": "Timbertown Quad",
@@ -4832,7 +4841,7 @@
             },
             {
                 "name": "East Basin Double",
-                "status": "Closed"
+                "status": "Open"
             },
             {
                 "name": "White Mountain Express Gondola",
@@ -4906,11 +4915,11 @@
             },
             {
                 "name": "Birdland Double Chair",
-                "status": "Closed"
+                "status": "Open"
             },
             {
                 "name": "Practice Slope Chair",
-                "status": "Closed"
+                "status": "Open"
             },
             {
                 "name": "Callie's Corner Handle Tow",
@@ -5008,71 +5017,71 @@
         "lifts": [
             {
                 "name": "Broadway Express 1",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Stump Alley Express 2",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Face Lift Express 3",
-                "status": "Closed"
+                "status": "Scheduled"
             },
             {
                 "name": "Roller Coaster Express 4",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "High 5 Express",
-                "status": "Closed"
+                "status": "Scheduled"
             },
             {
                 "name": "Unbound Express 6",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Chair 7",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Chair 8",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Cloud Nine Express 9",
-                "status": "Closed"
+                "status": "Scheduled"
             },
             {
                 "name": "Gold Rush Express 10",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Discovery Express 11",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Chair 12",
-                "status": "Closed"
+                "status": "Scheduled"
             },
             {
                 "name": "Chair 13",
-                "status": "Closed"
+                "status": "Scheduled"
             },
             {
                 "name": "Chair 14",
-                "status": "Closed"
+                "status": "Scheduled"
             },
             {
                 "name": "Eagle Express 15",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Canyon Express 16",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Schoolyard Express 17",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Chair 20",
@@ -5080,31 +5089,31 @@
             },
             {
                 "name": "Chair 21",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Chair 22",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Chair 23",
-                "status": "Closed"
+                "status": "Scheduled"
             },
             {
                 "name": "Chair 25",
-                "status": "Closed"
+                "status": "Scheduled"
             },
             {
                 "name": "Panorama Lower",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Panorama Upper",
-                "status": "Closed"
+                "status": "Scheduled"
             },
             {
                 "name": "Village Gondola",
-                "status": "Open"
+                "status": "Scheduled"
             }
         ]
     },
@@ -5442,7 +5451,7 @@
             },
             {
                 "name": "Chalets",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Combes 1",
@@ -5617,11 +5626,11 @@
             },
             {
                 "name": "Palon",
-                "status": "Closed"
+                "status": "Open"
             },
             {
                 "name": "Rocce- Rosse",
-                "status": "Closed"
+                "status": "Open"
             }
         ]
     },
@@ -5747,15 +5756,15 @@
             },
             {
                 "name": "Outback",
-                "status": "Open"
+                "status": "Hold"
             },
             {
                 "name": "Northwest",
-                "status": "Open"
+                "status": "Hold"
             },
             {
                 "name": "Sunrise",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Summit",
@@ -5763,43 +5772,43 @@
             },
             {
                 "name": "Rainbow",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Lava Tube",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Chipmunk Carpet",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Early Riser",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Cloudchaser",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Alpenglow",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Skyliner Express",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Red Chair",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Pine Marten",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Little Pine",
-                "status": "Open"
+                "status": "Scheduled"
             }
         ]
     },
@@ -5844,7 +5853,7 @@
             },
             {
                 "name": "Tubing",
-                "status": "Closed"
+                "status": "Open"
             }
         ]
     },
@@ -5853,35 +5862,35 @@
         "lifts": [
             {
                 "name": "Northwest Express",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Zephyr Express",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Lakeview Express",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Wizard",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Magic East",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Magic West",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Galena",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Chuter",
-                "status": "Open"
+                "status": "Closed"
             }
         ]
     },
@@ -5898,7 +5907,7 @@
             },
             {
                 "name": "Bear Trap",
-                "status": "Closed"
+                "status": "Scheduled"
             },
             {
                 "name": "Bluebird Express",
@@ -5930,11 +5939,11 @@
             },
             {
                 "name": "Grand Summit Express",
-                "status": "Closed"
+                "status": "Scheduled"
             },
             {
                 "name": "Grommet",
-                "status": "Closed"
+                "status": "Scheduled"
             },
             {
                 "name": "Heavy Metal",
@@ -5946,7 +5955,7 @@
             },
             {
                 "name": "Nitro Express",
-                "status": "Closed"
+                "status": "Scheduled"
             },
             {
                 "name": "Outpost",
@@ -5954,7 +5963,7 @@
             },
             {
                 "name": "Seasons",
-                "status": "Closed"
+                "status": "Scheduled"
             },
             {
                 "name": "Sunbrook Express",
@@ -6016,7 +6025,7 @@
             },
             {
                 "name": "Conquest",
-                "status": "Closed"
+                "status": "Scheduled"
             },
             {
                 "name": "Coyote",
@@ -6032,7 +6041,7 @@
             },
             {
                 "name": "Moving Carpet West Short",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Roadrunner",
@@ -6040,7 +6049,7 @@
             },
             {
                 "name": "Snowflake",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Competition",
@@ -6299,19 +6308,19 @@
         "lifts": [
             {
                 "name": "Arrow Express",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Backside Express",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Big Springs Express Gondola",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Comstock Express",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Hemlock Carpet",
@@ -6319,15 +6328,15 @@
             },
             {
                 "name": "Highlands Gondola",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Jeffrey Pines Carpet",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Juniper Carpet",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Lookout Link Platter",
@@ -6335,7 +6344,7 @@
             },
             {
                 "name": "Martis Camp Express",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Promised Land Express",
@@ -6347,15 +6356,15 @@
             },
             {
                 "name": "Sugar Pine Carpet",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Tahoe Zephyr Express",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "The Big Easy Quad",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "The Spruces Carpet",
@@ -6371,7 +6380,7 @@
             },
             {
                 "name": "Vista Express",
-                "status": "Open"
+                "status": "Closed"
             }
         ]
     },
@@ -6380,7 +6389,7 @@
         "lifts": [
             {
                 "name": "Black Ridge Triple",
-                "status": "Closed"
+                "status": "Scheduled"
             },
             {
                 "name": "Coleman Brook Express Quad",
@@ -6404,7 +6413,7 @@
             },
             {
                 "name": "Orion's Belt Carpet",
-                "status": "Closed"
+                "status": "Scheduled"
             },
             {
                 "name": "Quantum Six",
@@ -6420,11 +6429,11 @@
             },
             {
                 "name": "Skywalker Carpet",
-                "status": "Closed"
+                "status": "Scheduled"
             },
             {
                 "name": "Snowstar Carpet",
-                "status": "Closed"
+                "status": "Scheduled"
             },
             {
                 "name": "Solitude Express Quad",
@@ -6460,7 +6469,7 @@
             },
             {
                 "name": "The Pull",
-                "status": "Closed"
+                "status": "Scheduled"
             }
         ]
     },
@@ -6481,7 +6490,7 @@
             },
             {
                 "name": "A - Le Fosse - Monte Arso",
-                "status": "Closed"
+                "status": "Open"
             },
             {
                 "name": "D - Snow Park",
@@ -6489,7 +6498,7 @@
             },
             {
                 "name": "F - Capanna Brin - Daino",
-                "status": "Closed"
+                "status": "Open"
             },
             {
                 "name": "G - Anfiteatro - Coccinella",
@@ -6497,7 +6506,7 @@
             },
             {
                 "name": "H - Campetto degli Alpini - Monte Freddo",
-                "status": "Closed"
+                "status": "Open"
             },
             {
                 "name": "M - Fonte Fredda - Monte Freddo",
@@ -6509,11 +6518,11 @@
             },
             {
                 "name": "L - Belvedere",
-                "status": "Closed"
+                "status": "Open"
             },
             {
                 "name": "N - Max Bartolotti",
-                "status": "Closed"
+                "status": "Open"
             }
         ]
     },
@@ -6744,167 +6753,167 @@
         "lifts": [
             {
                 "name": "3 Kings Lift",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "9990 Express",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Bonanza Lift",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Cabriolet",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Crescent Lift",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Day Break",
-                "status": "Open"
-            },
-            {
-                "name": "Dreamcatcher",
-                "status": "Open"
-            },
-            {
-                "name": "Dreamscape",
-                "status": "Open"
-            },
-            {
-                "name": "Eagle Lift",
-                "status": "Open"
-            },
-            {
-                "name": "First Time Lift",
-                "status": "Open"
-            },
-            {
-                "name": "Flat Iron",
-                "status": "Open"
-            },
-            {
-                "name": "Frostwood Gondola",
-                "status": "Open"
-            },
-            {
-                "name": "High Meadow",
-                "status": "Open"
-            },
-            {
-                "name": "Iron Mtn. Express",
-                "status": "Open"
-            },
-            {
-                "name": "Jupiter Lift",
-                "status": "Open"
-            },
-            {
-                "name": "King Con Lift",
-                "status": "Open"
-            },
-            {
-                "name": "McConkey's Lift",
-                "status": "Open"
-            },
-            {
-                "name": "Mine Cart",
-                "status": "Open"
-            },
-            {
-                "name": "Motherlode Lift",
-                "status": "Open"
-            },
-            {
-                "name": "Mule Train",
-                "status": "Open"
-            },
-            {
-                "name": "Orange Bubble Express",
-                "status": "Open"
-            },
-            {
-                "name": "Over and Out",
-                "status": "Open"
-            },
-            {
-                "name": "PayDay Lift",
-                "status": "Open"
-            },
-            {
-                "name": "Peak 5",
-                "status": "Open"
-            },
-            {
-                "name": "Pioneer Lift",
-                "status": "Open"
-            },
-            {
-                "name": "Quicksilver Canyons Side",
-                "status": "Open"
-            },
-            {
-                "name": "Quicksilver PC Side",
-                "status": "Open"
-            },
-            {
-                "name": "Red Pine Gondola",
-                "status": "Open"
-            },
-            {
-                "name": "Rip Cord",
-                "status": "Open"
-            },
-            {
-                "name": "Saddleback Express",
-                "status": "Open"
-            },
-            {
-                "name": "Shortcut",
                 "status": "Closed"
             },
             {
+                "name": "Dreamcatcher",
+                "status": "Scheduled"
+            },
+            {
+                "name": "Dreamscape",
+                "status": "Scheduled"
+            },
+            {
+                "name": "Eagle Lift",
+                "status": "Scheduled"
+            },
+            {
+                "name": "First Time Lift",
+                "status": "Scheduled"
+            },
+            {
+                "name": "Flat Iron",
+                "status": "Scheduled"
+            },
+            {
+                "name": "Frostwood Gondola",
+                "status": "Scheduled"
+            },
+            {
+                "name": "High Meadow",
+                "status": "Scheduled"
+            },
+            {
+                "name": "Iron Mtn. Express",
+                "status": "Scheduled"
+            },
+            {
+                "name": "Jupiter Lift",
+                "status": "Scheduled"
+            },
+            {
+                "name": "King Con Lift",
+                "status": "Scheduled"
+            },
+            {
+                "name": "McConkey's Lift",
+                "status": "Scheduled"
+            },
+            {
+                "name": "Mine Cart",
+                "status": "Scheduled"
+            },
+            {
+                "name": "Motherlode Lift",
+                "status": "Scheduled"
+            },
+            {
+                "name": "Mule Train",
+                "status": "Scheduled"
+            },
+            {
+                "name": "Orange Bubble Express",
+                "status": "Scheduled"
+            },
+            {
+                "name": "Over and Out",
+                "status": "Scheduled"
+            },
+            {
+                "name": "PayDay Lift",
+                "status": "Scheduled"
+            },
+            {
+                "name": "Peak 5",
+                "status": "Scheduled"
+            },
+            {
+                "name": "Pioneer Lift",
+                "status": "Scheduled"
+            },
+            {
+                "name": "Quicksilver Canyons Side",
+                "status": "Scheduled"
+            },
+            {
+                "name": "Quicksilver PC Side",
+                "status": "Scheduled"
+            },
+            {
+                "name": "Red Pine Gondola",
+                "status": "Scheduled"
+            },
+            {
+                "name": "Rip Cord",
+                "status": "Scheduled"
+            },
+            {
+                "name": "Saddleback Express",
+                "status": "Scheduled"
+            },
+            {
+                "name": "Shortcut",
+                "status": "Scheduled"
+            },
+            {
                 "name": "Silver Star Lift",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Silverlode Lift",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Sun Peak Express",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Sunrise",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Super Condor Express",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Sweet Pea",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Thaynes Lift",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Timberline",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Tombstone Express",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Town Lift",
-                "status": "Open"
+                "status": "Scheduled"
             }
         ]
     },
@@ -6929,7 +6938,7 @@
             },
             {
                 "name": "Biancaneve",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Mezoli",
@@ -6993,7 +7002,7 @@
                 "status": "Closed"
             },
             {
-                "name": "Quad Express (No Foot Passengers)",
+                "name": "Quad Express",
                 "status": "Closed"
             },
             {
@@ -7139,7 +7148,7 @@
         "lifts": [
             {
                 "name": "101 Tappeto Daini",
-                "status": "Closed"
+                "status": "Open"
             },
             {
                 "name": "102 Tappeto Genzianella",
@@ -7151,7 +7160,7 @@
             },
             {
                 "name": "104 Seggiovia Sauc - 4 posti",
-                "status": "Closed"
+                "status": "Open"
             },
             {
                 "name": "105 Seggiovia Busa Grande - 4 posti",
@@ -7163,7 +7172,7 @@
             },
             {
                 "name": "107 Seggiovia Tremol 2 - 4 posti",
-                "status": "Closed"
+                "status": "Open"
             },
             {
                 "name": "108 Seggiovia Tremol 1 - 4 posti",
@@ -7204,11 +7213,11 @@
             },
             {
                 "name": "Outpost Double",
-                "status": "Closed"
+                "status": "Scheduled"
             },
             {
                 "name": "Knomes Knoll Triple",
-                "status": "Closed"
+                "status": "Scheduled"
             },
             {
                 "name": "Golden Express Quad",
@@ -7601,11 +7610,11 @@
             },
             {
                 "name": "105 Seggiovia Tamai 2000 - 4 posti",
-                "status": "Closed"
+                "status": "Open"
             },
             {
                 "name": "106 Seggiovia Cima Tamai - 2 posti",
-                "status": "Closed"
+                "status": "Open"
             },
             {
                 "name": "107 Sciovia Arvenis",
@@ -7617,7 +7626,7 @@
             },
             {
                 "name": "109 Tappeto Cjalcenal",
-                "status": "Closed"
+                "status": "Open"
             },
             {
                 "name": "110 Tappeto Cima Zoncolan",
@@ -7625,11 +7634,11 @@
             },
             {
                 "name": "111 Tappeti Madessa (1,2,3)",
-                "status": "Closed"
+                "status": "Open"
             },
             {
                 "name": "Pradibosco|Skilift",
-                "status": "Closed"
+                "status": "Open"
             },
             {
                 "name": "Pradibosco|Tappeto",
@@ -7651,7 +7660,7 @@
         "lifts": [
             {
                 "name": "Grey Quad",
-                "status": "Hold"
+                "status": "Open"
             },
             {
                 "name": "Silverlode Quad",
@@ -7659,7 +7668,7 @@
             },
             {
                 "name": "Motherlode Triple",
-                "status": "Hold"
+                "status": "Open"
             },
             {
                 "name": "Red Double",
@@ -7667,7 +7676,7 @@
             },
             {
                 "name": "Paradise Triple",
-                "status": "Hold"
+                "status": "Open"
             },
             {
                 "name": "Topping Triple",
@@ -7829,7 +7838,7 @@
             },
             {
                 "name": "ValleVerde 1",
-                "status": "Scheduled"
+                "status": "Open"
             },
             {
                 "name": "ValleVerde 2",
@@ -7837,15 +7846,15 @@
             },
             {
                 "name": "Aremogna Crete Rosse",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Crete Rosse 1",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Pino Solitario",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Del Pratelletto",
@@ -7881,7 +7890,7 @@
             },
             {
                 "name": "Paradiso 2",
-                "status": "Scheduled"
+                "status": "Open"
             },
             {
                 "name": "Gravare-ToppeTes",
@@ -7889,7 +7898,7 @@
             },
             {
                 "name": "Pizzalto-Gravare",
-                "status": "Open"
+                "status": "Scheduled"
             }
         ]
     },
@@ -8039,7 +8048,7 @@
             },
             {
                 "name": "108 Sciovia Campetto 2",
-                "status": "Closed"
+                "status": "Open"
             }
         ]
     },
@@ -8300,7 +8309,7 @@
             },
             {
                 "name": "Slider Carpet",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Fuego Carpet",
@@ -8308,11 +8317,11 @@
             },
             {
                 "name": "Grandview Express",
-                "status": "Scheduled"
+                "status": "Open"
             },
             {
                 "name": "Nob Hill",
-                "status": "Open"
+                "status": "Hold"
             },
             {
                 "name": "Rock Garden",
@@ -8328,11 +8337,11 @@
             },
             {
                 "name": "Blizzard Mountain Tubing Tow (if trails are open hiking is available)",
-                "status": "Closed"
+                "status": "Open"
             },
             {
                 "name": "Wild Mountain Magic Carpet (Ski/Ride School Only)",
-                "status": "Scheduled"
+                "status": "Open"
             },
             {
                 "name": "El Dorado",
@@ -8340,7 +8349,7 @@
             },
             {
                 "name": "Short Stuff",
-                "status": "Scheduled"
+                "status": "Closed"
             },
             {
                 "name": "Puma",
@@ -8348,7 +8357,7 @@
             },
             {
                 "name": "West Bowl Express",
-                "status": "Open"
+                "status": "Closed"
             }
         ]
     },
@@ -8385,7 +8394,7 @@
             },
             {
                 "name": "Sterling T-Bar Lift",
-                "status": "Closed"
+                "status": "Open"
             },
             {
                 "name": "Madonna I Lift",
@@ -8393,7 +8402,7 @@
             },
             {
                 "name": "Madonna II Lift",
-                "status": "Closed"
+                "status": "Open"
             }
         ]
     },
@@ -8406,15 +8415,15 @@
         "lifts": [
             {
                 "name": "Allen Peak Tram",
-                "status": "Closed"
+                "status": "Scheduled"
             },
             {
                 "name": "Strawberry Gondola",
-                "status": "Closed"
+                "status": "Open"
             },
             {
                 "name": "Needles Gondola",
-                "status": "Closed"
+                "status": "Open"
             },
             {
                 "name": "Littlecat Express",
@@ -8422,7 +8431,7 @@
             },
             {
                 "name": "Middle Bowl Express",
-                "status": "Closed"
+                "status": "Open"
             },
             {
                 "name": "Wildcat Express",
@@ -8430,7 +8439,7 @@
             },
             {
                 "name": "John Paul Express",
-                "status": "Closed"
+                "status": "Open"
             },
             {
                 "name": "DeMoisy Express",
@@ -8463,23 +8472,23 @@
         "lifts": [
             {
                 "name": "Baby Thunder",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Aerial Tram",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Gadzoom",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Peruvian",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Chickadee",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Mineral Basin",
@@ -8491,7 +8500,7 @@
             },
             {
                 "name": "Wilbere",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Peruvian Tunnel",
@@ -8499,23 +8508,23 @@
             },
             {
                 "name": "Gad 2",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Little Cloud",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Chickadee Conveyor",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Baby Thunder Conveyor",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Mid-Gad",
-                "status": "Open"
+                "status": "Scheduled"
             }
         ]
     },
@@ -8524,7 +8533,7 @@
         "lifts": [
             {
                 "name": "Alpine Springs",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Assay Hill Carpet",
@@ -8532,11 +8541,11 @@
             },
             {
                 "name": "High Alpine",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Big Burn",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Cirque Surface Lift",
@@ -8544,43 +8553,43 @@
             },
             {
                 "name": "Sheer Bliss",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Campground",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Assay Hill",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Bear Bottom Carpet",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Elk Camp Chairlift",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Elk Camp Gondola",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Meadows Carpet",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Meadows Lift",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Coney Express",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Sam's Knob",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Scooper",
@@ -8588,19 +8597,19 @@
             },
             {
                 "name": "Sky Cab",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Treehouse Carpet",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Village Express",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Two Creeks",
-                "status": "Open"
+                "status": "Closed"
             }
         ]
     },
@@ -8698,7 +8707,7 @@
             },
             {
                 "name": "Honeycomb Return",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Magic Carpet",
@@ -8715,15 +8724,15 @@
         "lifts": [
             {
                 "name": "Steamboat Gondola",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Wild Blue Gondola Lower",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Wild Blue Gondola Upper",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Bar-UE",
@@ -8787,7 +8796,7 @@
             },
             {
                 "name": "Wrangler Carpet",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Bonanza",
@@ -8824,7 +8833,7 @@
             },
             {
                 "name": "Double Diamond",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Hogsback Express",
@@ -8832,7 +8841,7 @@
             },
             {
                 "name": "Jupiter Express",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Kehr's",
@@ -8840,11 +8849,11 @@
             },
             {
                 "name": "Marmot Carpet",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Pika Carpet",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Rope Tow 1",
@@ -8856,7 +8865,7 @@
             },
             {
                 "name": "Seventh Heaven",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Skyline Express",
@@ -8864,7 +8873,7 @@
             },
             {
                 "name": "Southern Cross",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Tye Mill",
@@ -8889,7 +8898,7 @@
             },
             {
                 "name": "Lookout Double",
-                "status": "Closed"
+                "status": "Scheduled"
             },
             {
                 "name": "Mansfield Gondola",
@@ -8905,7 +8914,7 @@
             },
             {
                 "name": "Over Easy Gondola",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Sensation Quad",
@@ -8946,7 +8955,7 @@
             },
             {
                 "name": "Shooting Star",
-                "status": "Closed"
+                "status": "Open"
             },
             {
                 "name": "Snow Bowl Express",
@@ -8958,7 +8967,7 @@
             },
             {
                 "name": "Villager",
-                "status": "Closed"
+                "status": "Open"
             },
             {
                 "name": "Tamarack",
@@ -8982,7 +8991,7 @@
             },
             {
                 "name": "Oso Carpet",
-                "status": "Closed"
+                "status": "Open"
             }
         ]
     },
@@ -8991,23 +9000,23 @@
         "lifts": [
             {
                 "name": "Lincoln Express",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Disney Express",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Christmas Tree Express",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Nob Hill (Beginner)",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Crow's Peak",
-                "status": "Closed"
+                "status": "Scheduled"
             },
             {
                 "name": "Gondola",
@@ -9015,15 +9024,15 @@
             },
             {
                 "name": "Village Tow",
-                "status": "Closed"
+                "status": "Scheduled"
             },
             {
                 "name": "White Pine (Beginner)",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Flume Carpet",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Judah Express",
@@ -9035,7 +9044,7 @@
             },
             {
                 "name": "Jerome Hill Express",
-                "status": "Open"
+                "status": "Scheduled"
             }
         ]
     },
@@ -9060,7 +9069,7 @@
             },
             {
                 "name": "Inverness Quad",
-                "status": "Closed"
+                "status": "Open"
             },
             {
                 "name": "North Lynx Triple",
@@ -9096,7 +9105,7 @@
             },
             {
                 "name": "Valley House Quad",
-                "status": "Closed"
+                "status": "Open"
             },
             {
                 "name": "Village Quad",
@@ -9117,7 +9126,7 @@
             },
             {
                 "name": "Sawduster",
-                "status": "Closed"
+                "status": "Scheduled"
             },
             {
                 "name": "Snubber",
@@ -9133,7 +9142,7 @@
             },
             {
                 "name": "Double Runner West",
-                "status": "Scheduled"
+                "status": "Closed"
             },
             {
                 "name": "SuperQuad",
@@ -9169,7 +9178,7 @@
             },
             {
                 "name": "West Mountain",
-                "status": "Closed"
+                "status": "Scheduled"
             }
         ]
     },
@@ -9178,55 +9187,55 @@
         "lifts": [
             {
                 "name": "Burfield Chairlift",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Crystal Chairlift",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Elevation Chairlift",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Learning Zone Carpet",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Morrisey Express Chairlift",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Morrisey Platter",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Orient Chairlift",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Sunburst Express Chairlift",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Sundance Express Chairlift",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Tube Time Carpet",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Village Carpet",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Village Platter",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "West Bowl Express Chairlift",
-                "status": "Open"
+                "status": "Closed"
             }
         ]
     },
@@ -9251,7 +9260,7 @@
             },
             {
                 "name": "Locke Mountain Triple #4",
-                "status": "Closed"
+                "status": "Scheduled"
             },
             {
                 "name": "Alera Group Competition Lift #5",
@@ -9263,11 +9272,11 @@
             },
             {
                 "name": "Chondola #7",
-                "status": "Scheduled"
+                "status": "Open"
             },
             {
                 "name": "South Ridge Express #2",
-                "status": "Scheduled"
+                "status": "Open"
             },
             {
                 "name": "Lower Sundance Surface Lift #16",
@@ -9275,7 +9284,7 @@
             },
             {
                 "name": "Middle Sundance Surface Lift #17",
-                "status": "Scheduled"
+                "status": "Open"
             },
             {
                 "name": "Upper Sundance Surface Lift #18",
@@ -9291,7 +9300,7 @@
             },
             {
                 "name": "North Peak Express #6",
-                "status": "Closed"
+                "status": "Scheduled"
             },
             {
                 "name": "Aurora Peak Quad #12",
@@ -9299,11 +9308,11 @@
             },
             {
                 "name": "Quantum Leap Triple #3",
-                "status": "Closed"
+                "status": "Scheduled"
             },
             {
                 "name": "OZ Quad #15",
-                "status": "Closed"
+                "status": "Scheduled"
             },
             {
                 "name": "Jordan 8 Lift #14",
@@ -9311,7 +9320,7 @@
             },
             {
                 "name": "Jordan Mountain Double #13",
-                "status": "Closed"
+                "status": "Scheduled"
             }
         ]
     },
@@ -9414,7 +9423,7 @@
             },
             {
                 "name": "102 Seggiovia dell'Angelo - 4 posti",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "103 Seggiovia Priesnig - 4 posti",
@@ -9442,7 +9451,7 @@
             },
             {
                 "name": "109 Seggiovia Nuova Tarvisio - 4 posti",
-                "status": "Closed"
+                "status": "Open"
             },
             {
                 "name": "110 Seggiovia Duca d'Aosta -3 posti",
@@ -9471,31 +9480,31 @@
             },
             {
                 "name": "Chondola",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Childrens Magic Carpet",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Adult Magic Carpet",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Village Express",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Polar Queen Express",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Apex Lift",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Lift 7",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Oak Street Lift",
@@ -9503,35 +9512,35 @@
             },
             {
                 "name": "Plunge Lift",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Sunshine Express",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "UTE Park",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Prospect Express",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Lynx",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Gold Hill Express",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Revelation Lift",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "North Meadows Carpet",
-                "status": "Open"
+                "status": "Closed"
             }
         ]
     },
@@ -9738,27 +9747,27 @@
         "lifts": [
             {
                 "name": "BRUNO\u00e2\u0080\u0099S HANDLE TOW",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "PUCCI",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "JEFF FLOOD",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "MOLLY\u00e2\u0080\u0099S",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "STORMIN\u00e2\u0080\u0099 NORMAN",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "MAGIC MILE",
-                "status": "Closed"
+                "status": "Scheduled"
             },
             {
                 "name": "PALMER CAT SKI",
@@ -9766,15 +9775,15 @@
             },
             {
                 "name": "TIMBER TIGER CONVEYOR (Friday - Sunday only)",
-                "status": "Closed"
+                "status": "Scheduled"
             },
             {
                 "name": "SUMMIT PASS (closed Tuesdays & Wednesdays)",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "HEIDI\u00e2\u0080\u0099S CONVEYOR AT SUMMIT PASS (closed Tuesdays & Wednesdays)",
-                "status": "Open"
+                "status": "Scheduled"
             }
         ]
     },
@@ -9924,7 +9933,7 @@
         "lifts": [
             {
                 "name": "Avanti Express #2",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Black Forest #27",
@@ -9932,15 +9941,15 @@
             },
             {
                 "name": "Born Free Express #8",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Cascade Village #20",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Eagle Bahn Gondola #19",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Earl's Express #38",
@@ -9948,11 +9957,11 @@
             },
             {
                 "name": "Elvis Bahn #25",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Game Creek Express #7",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Golden Peak T-Bar",
@@ -9960,51 +9969,51 @@
             },
             {
                 "name": "Gondola One",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Gopher Hill #12",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "High Noon Express #5",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Highline Express #10",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Lightning Coyote #18",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Lionshead Magic Carpet #34",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Little Eagle #15",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Mongolia Platter #22",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Mountaintop Express #4",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Northwoods Express #11",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Orient Express #21",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Patty Bahn",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Pete's Express #39",
@@ -10012,11 +10021,11 @@
             },
             {
                 "name": "Pride Express #26",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Rip's Ride Carpet #29",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Riva Bahn Express #6",
@@ -10028,23 +10037,23 @@
             },
             {
                 "name": "Sourdough Express #14",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Sun Down Express #17",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Sun Up Express #9",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Tea Cup Express #36",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Thunder Cat Carpet #35",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Wapiti Platter #24",
@@ -10052,7 +10061,7 @@
             },
             {
                 "name": "Wildwood Express #3",
-                "status": "Open"
+                "status": "Scheduled"
             }
         ]
     },
@@ -11098,7 +11107,7 @@
             },
             {
                 "name": "World Cup T-Bar",
-                "status": "Closed"
+                "status": "Open"
             }
         ]
     },
@@ -11107,43 +11116,43 @@
         "lifts": [
             {
                 "name": "7th Heaven Express",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Blackcomb Gondola Lower",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Blackcomb Gondola Upper",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Bubly Tube Park",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Catskinner Express",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Crystal Ridge Express",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Excalibur Gondola Lower",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Excalibur Gondola Upper",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Excelerator Express",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Glacier Express",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Horstman T-Bar",
@@ -11151,15 +11160,15 @@
             },
             {
                 "name": "Jersey Cream Express",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Magic Chair",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Peak 2 Peak Gondola",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Showcase T-Bar",
@@ -11167,19 +11176,19 @@
             },
             {
                 "name": "Big Red Express",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Creekside Gondola",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Emerald 6 Express",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Fitzsimmons Express",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Franz's Chair",
@@ -11187,35 +11196,35 @@
             },
             {
                 "name": "Garbanzo Express",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Harmony 6 Express",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Olympic Chair",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Peak Express",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Symphony Express",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "T-Bars",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Whistler Village Gondola Lower",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Whistler Village Gondola Upper",
-                "status": "Hold"
+                "status": "Closed"
             }
         ]
     },
@@ -11334,7 +11343,7 @@
             },
             {
                 "name": "Challenger",
-                "status": "Closed"
+                "status": "Open"
             },
             {
                 "name": "Cirque Sled",
@@ -11350,7 +11359,7 @@
             },
             {
                 "name": "Eagle Wind",
-                "status": "Closed"
+                "status": "Open"
             },
             {
                 "name": "Endeavour",
@@ -11398,7 +11407,7 @@
             },
             {
                 "name": "Panoramic Express",
-                "status": "Open"
+                "status": "Hold"
             },
             {
                 "name": "Pony Express",
