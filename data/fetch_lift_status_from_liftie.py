@@ -3,7 +3,6 @@ import requests
 from bs4 import BeautifulSoup
 import os
 
-
 # URL to query data from
 url = 'https://liftie.info/'
 
@@ -27,10 +26,19 @@ if response.status_code == 200:
     # Find all section elements that contain resort data
     sections = soup.find_all('section', class_='panel resort')
 
-    # Iterate over each section (resort) to extract lifts and their statuses
+    # Iterate over each section (resort) to extract lifts, statuses, and correct resort URLs
     for section in sections:
         # Extract the resort name from the 'data-resort' attribute
         resort_name = section.get('data-resort', 'Unknown Resort')
+
+        # Extract the correct resort website URL (first <a> tag inside <header> with class="icon-alone resort-link")
+        header = section.find('header')
+        resort_url = None
+
+        if header:
+            resort_link_tag = header.find('a', class_='icon-alone resort-link')
+            if resort_link_tag and 'href' in resort_link_tag.attrs:
+                resort_url = resort_link_tag['href']
 
         # Find all lift items within this section
         lifts = []
@@ -39,22 +47,19 @@ if response.status_code == 200:
             lift_status = lift.find('span', class_='status').get('class')[1]  # Get the second class (status)
 
             # Mapping status class to readable status
-            if lift_status == 'ls-open':
-                status = 'Open'
-            elif lift_status == 'ls-closed':
-                status = 'Closed'
-            elif lift_status == 'ls-scheduled':
-                status = 'Scheduled'
-            elif lift_status == 'ls-hold':
-                status = 'Hold'
-            else:
-                status = 'Unknown'
+            status_mapping = {
+                'ls-open': 'Open',
+                'ls-closed': 'Closed',
+                'ls-scheduled': 'Scheduled',
+                'ls-hold': 'Hold'
+            }
+            status = status_mapping.get(lift_status, 'Unknown')
 
             # Append lift information to the lifts list
             lifts.append({"name": lift_name, "status": status})
 
         # Append the resort's data to the resorts_data list
-        resorts_data.append({"resort": resort_name, "lifts": lifts})
+        resorts_data.append({"resort": resort_name, "url": resort_url, "lifts": lifts})
 
     # Write the result to a JSON file
     with open(output_file_path, 'w', encoding='utf-8') as json_file:

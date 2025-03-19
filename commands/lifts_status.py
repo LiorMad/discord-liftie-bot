@@ -26,11 +26,16 @@ async def lifts(interaction: discord.Interaction, resort: str):
     if not resort_data:
         await interaction.response.send_message(f"Resort '{resort}' not found.", ephemeral=True)
         return
-
+    url = resort_data['url']
     lifts_info = resort_data["lifts"]
     response = f"**Lift status for {resort}:**\n" + "\n".join(
-        f"{lift['name']}: {'✅' if lift['status'].lower() == 'open' else '❌'} {lift['status']}"
+        f"{lift['name']}: "
+        f"{'✅' if lift['status'].lower() == 'open' else '❌' if lift['status'].lower() == 'closed' else '⏳'} {lift['status']}"
         for lift in lifts_info
-    )
+    )+"\n" + f"\n**_Data source_:** *`{url}`*"
 
-    await interaction.response.send_message(response)
+    # Wrap URL in backticks to make it plain text
+    # response += f"\n`{url}`"
+
+    # Send the message
+    await interaction.response.send_message(response, allowed_mentions=discord.AllowedMentions.none())

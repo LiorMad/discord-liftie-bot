@@ -1,14 +1,16 @@
 [
     {
         "resort": "49-degrees-north",
+        "url": "https://new.ski49n.com/mountain-info/trail-status",
         "lifts": []
     },
     {
         "resort": "alpe-lusia-san-pellegrino",
+        "url": "https://www.dolomitisuperski.com/it/Scopri/Zone-sciistiche/Alpe-Lusia-San-Pellegrino/Impianti",
         "lifts": [
             {
                 "name": "Campigol",
-                "status": "Closed"
+                "status": "Open"
             },
             {
                 "name": "Capanna Margherita",
@@ -32,7 +34,7 @@
             },
             {
                 "name": "Cima Uomo",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Del Passo",
@@ -106,10 +108,11 @@
     },
     {
         "resort": "alpine",
+        "url": "https://www.palisadestahoe.com/mountain-information/lift-and-grooming-status#tab=alpine-meadows-",
         "lifts": [
             {
                 "name": "Alpine Bowl Chair",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Base to Base Gondola to Palisades",
@@ -121,7 +124,7 @@
             },
             {
                 "name": "Kangaroo",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Lakeview",
@@ -161,41 +164,44 @@
             },
             {
                 "name": "Yellow",
-                "status": "Open"
+                "status": "Closed"
             }
         ]
     },
     {
         "resort": "alta",
+        "url": "https://www.alta.com/lift-terrain-status",
         "lifts": [
             {
                 "name": "Sunnyside",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Supreme",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Sugarloaf",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Collins",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Wildcat",
-                "status": "Open"
+                "status": "Closed"
             }
         ]
     },
     {
         "resort": "alta-badia",
+        "url": "https://www.altabadia.org/en/winter-holidays/italian-alps/open-lifts-snow-report.html",
         "lifts": []
     },
     {
         "resort": "alyeska",
+        "url": "https://alyeskaresort.com/mountain-report/",
         "lifts": [
             {
                 "name": "Aerial Tram",
@@ -233,10 +239,12 @@
     },
     {
         "resort": "angel-fire",
+        "url": "https://www.angelfireresort.com/snow-report/",
         "lifts": []
     },
     {
         "resort": "arabba",
+        "url": "https://www.dolomitisuperski.com/it/Scopri/Zone-sciistiche/Arabba/Impianti",
         "lifts": [
             {
                 "name": "Porta Vescovo",
@@ -248,7 +256,7 @@
             },
             {
                 "name": "Forcella Europa",
-                "status": "Closed"
+                "status": "Open"
             },
             {
                 "name": "Portados",
@@ -256,7 +264,7 @@
             },
             {
                 "name": "Carpazza",
-                "status": "Closed"
+                "status": "Open"
             },
             {
                 "name": "Sass de la Vegla",
@@ -320,11 +328,11 @@
             },
             {
                 "name": "Malga - Serauta",
-                "status": "Closed"
+                "status": "Open"
             },
             {
                 "name": "Serauta- P.Rocca",
-                "status": "Closed"
+                "status": "Open"
             },
             {
                 "name": "Padon",
@@ -342,35 +350,38 @@
     },
     {
         "resort": "abasin",
+        "url": "https://www.arapahoebasin.com/the-mountain/terrain-status/",
         "lifts": []
     },
     {
         "resort": "aspen-highlands",
+        "url": "https://www.aspensnowmass.com/our-mountains/aspen-highlands/lift-status",
         "lifts": [
             {
                 "name": "Exhibition",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Thunderbowl",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Cloud Nine",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Deep Temerity",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Loge Peak",
-                "status": "Open"
+                "status": "Closed"
             }
         ]
     },
     {
         "resort": "aspen-mountain",
+        "url": "https://www.aspensnowmass.com/our-mountains/aspen-mountain/lift-status",
         "lifts": [
             {
                 "name": "Hero's",
@@ -382,7 +393,7 @@
             },
             {
                 "name": "Little Nell",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Shadow Mountain",
@@ -408,18 +419,19 @@
     },
     {
         "resort": "attitash",
+        "url": "https://www.attitash.com/the-mountain/mountain-conditions/lift-and-terrain-status.aspx",
         "lifts": [
             {
                 "name": "Abenaki Quad",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Flying Bear",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Flying Yankee",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Kachina",
@@ -427,64 +439,65 @@
             },
             {
                 "name": "Learning Center",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Progression Quad",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Snowbelt",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "The Mountaineer",
-                "status": "Open"
+                "status": "Scheduled"
             }
         ]
     },
     {
         "resort": "beavercreek",
+        "url": "https://www.beavercreek.com/the-mountain/mountain-conditions/terrain-and-lift-status.aspx",
         "lifts": [
             {
                 "name": "Arrow Bahn Express",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Bachelor Gulch Express",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Bibber Bahn",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Birds of Prey Express",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Centennial Express",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Cinch Express",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Elkhorn Lift",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Grouse Mountain Express",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Haymeadow Express",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Highlands Lift",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Jitterbug",
@@ -492,68 +505,69 @@
             },
             {
                 "name": "Larkspur Express",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Lower BC Mtn Express",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Magic Carpet",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "McCoy Park Express",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Red Buffalo Express",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Reunion Lift",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Ritz Bahn",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Riverfront Express Gondola",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Rose Bowl Express",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Snowflake",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Strawberry Park Express",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Trail Rider",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Upper BC Mtn Express",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Wagon Train",
-                "status": "Open"
+                "status": "Scheduled"
             }
         ]
     },
     {
         "resort": "berkshire-east",
+        "url": "https://berkshireeast.com/winter/mountain-conditions",
         "lifts": [
             {
                 "name": "T-Bar Express Quad",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Summit Quad",
@@ -561,20 +575,21 @@
             },
             {
                 "name": "Top Notch Double",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Wilderness Peak Quad",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Bobcat Magic Carpet",
-                "status": "Open"
+                "status": "Closed"
             }
         ]
     },
     {
         "resort": "big-sky",
+        "url": "https://bigskyresort.com/current-conditions",
         "lifts": [
             {
                 "name": "Cascade 3",
@@ -618,7 +633,7 @@
             },
             {
                 "name": "Headwaters 2",
-                "status": "Closed"
+                "status": "Open"
             },
             {
                 "name": "Iron Horse 4",
@@ -740,6 +755,7 @@
     },
     {
         "resort": "big-white",
+        "url": "http://www.bigwhite.com/mountain-info/mountain-reports/lift-status",
         "lifts": [
             {
                 "name": "Lara\u00e2\u0080\u0099s Gondola (free access)",
@@ -809,6 +825,7 @@
     },
     {
         "resort": "bluemountain",
+        "url": "https://www.bluemountain.ca/mountain/mountain-report#/lifts",
         "lifts": [
             {
                 "name": "Easy Rider",
@@ -824,7 +841,7 @@
             },
             {
                 "name": "Little Ripper",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Orchard Express",
@@ -840,7 +857,7 @@
             },
             {
                 "name": "Undergrad",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Valley Express",
@@ -858,10 +875,12 @@
     },
     {
         "resort": "blue-mountain-pa",
+        "url": "https://www.skibluemt.com/condition-report/",
         "lifts": []
     },
     {
         "resort": "bogusbasin",
+        "url": "https://bogusbasin.org/your-mountain/trails-grooming/",
         "lifts": [
             {
                 "name": "Deer Point Express",
@@ -881,11 +900,11 @@
             },
             {
                 "name": "Bitterroot Chair",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Pine Creek Express",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Coach Chairlift",
@@ -915,6 +934,7 @@
     },
     {
         "resort": "bolton-valley",
+        "url": "https://www.boltonvalley.com/winter/trail-maps-snow-reports/snow-reports/",
         "lifts": [
             {
                 "name": "Mid Mountain",
@@ -938,12 +958,13 @@
             },
             {
                 "name": "Wilderness",
-                "status": "Open"
+                "status": "Closed"
             }
         ]
     },
     {
         "resort": "boreal",
+        "url": "https://www.rideboreal.com/the-mountain/the-mountain/trail-lift-info/full-trail-report",
         "lifts": [
             {
                 "name": "Accelerator Express Quad Charilift",
@@ -959,19 +980,19 @@
             },
             {
                 "name": "Discovery Carpet",
-                "status": "Scheduled"
+                "status": "Closed"
             },
             {
                 "name": "Cedar Ridge Triple Chairlift",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "49er Triple Chairlift",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Lost Dutchman Triple Chairlift",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Tahoe Tubing Carpet",
@@ -981,62 +1002,63 @@
     },
     {
         "resort": "breck",
+        "url": "https://www.breckenridge.com/the-mountain/mountain-conditions/terrain-and-lift-status.aspx",
         "lifts": [
             {
                 "name": "6-Chair",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "A-Chair",
-                "status": "Closed"
+                "status": "Scheduled"
             },
             {
                 "name": "Admin Carpet 1",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Admin Carpet 2",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Beaver Run SuperChair",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "BR Adult Carpet",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "BR Kids Carpet",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "BreckConnect Gondola",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Camelback Carpet",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Camelback Platter",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "C-Chair",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Colorado SuperChair",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "E-Chair",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "El Dorado Carpet",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "El Dorado Platter",
@@ -1044,92 +1066,94 @@
             },
             {
                 "name": "Falcon SuperChair",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Five SuperChair",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Freedom SuperChair",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Horseshoe Bowl T-Bar",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Imperial SuperChair",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Independence SuperChair",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Kensho SuperChair",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Mercury SuperChair",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Peak 8 Kids Carpet 1",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Peak 8 Kids Carpet 2",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Peak 8 SuperConnect",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Quicksilver SuperChair",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Rip's Ride",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Rocky Mountain SuperChair",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Snowflake",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Trygve's Platter",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Tweener Carpet",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Village Carpet A",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Village Carpet B",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Zendo Chair",
-                "status": "Open"
+                "status": "Scheduled"
             }
         ]
     },
     {
         "resort": "brettonwoods",
+        "url": "https://www.brettonwoods.com/alpine_trails/trail_report",
         "lifts": []
     },
     {
         "resort": "brianhead",
+        "url": "https://www.brianhead.com/weather-conditions-webcams/",
         "lifts": [
             {
                 "name": "Wildflower, Chair 1",
@@ -1167,6 +1191,7 @@
     },
     {
         "resort": "bridger-bowl",
+        "url": "https://bridgerbowl.com/weather/snow-report",
         "lifts": [
             {
                 "name": "Sunnyside",
@@ -1212,6 +1237,7 @@
     },
     {
         "resort": "brighton",
+        "url": "https://brightonresort.com/conditions",
         "lifts": [
             {
                 "name": "Caterpillar",
@@ -1249,10 +1275,11 @@
     },
     {
         "resort": "bromley-mountain",
+        "url": "https://www.bromley.com/the-mountain/snow-report/",
         "lifts": [
             {
                 "name": "Sun Mountain Express",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Plaza Chairlift",
@@ -1264,19 +1291,19 @@
             },
             {
                 "name": "Star Carpet",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "East Meadow Chairlift",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Alpine Chairlift",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Blue Ribbon Quad",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Lord's Prayer T-Bar",
@@ -1284,7 +1311,7 @@
             },
             {
                 "name": "Kid's Carpet (Mighty Moose Lessons Only)",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": ".groomedIcon{fill:#5d5d5d}",
@@ -1302,6 +1329,7 @@
     },
     {
         "resort": "burke-mountain",
+        "url": "http://www.skiburke.com/skiing-and-riding/the-mountain/trails-lifts-and-grooming/",
         "lifts": [
             {
                 "name": "Magic Carpet",
@@ -1319,6 +1347,7 @@
     },
     {
         "resort": "buttermilk",
+        "url": "https://www.aspensnowmass.com/our-mountains/buttermilk/lift-status",
         "lifts": [
             {
                 "name": "Mighty Mite",
@@ -1344,10 +1373,12 @@
     },
     {
         "resort": "caberfae-peaks",
+        "url": "https://caberfaepeaks.com/themountain/snow-report/",
         "lifts": []
     },
     {
         "resort": "camelback",
+        "url": "https://www.camelbackresort.com/ski-tube/poconos-snow-report-conditions/",
         "lifts": [
             {
                 "name": "Bailey",
@@ -1359,7 +1390,7 @@
             },
             {
                 "name": "The Glen",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Cleopatra",
@@ -1395,11 +1426,11 @@
             },
             {
                 "name": "Coolmoor Carpet",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Tubing I",
-                "status": "Closed"
+                "status": "Open"
             },
             {
                 "name": "Tubing II",
@@ -1413,6 +1444,7 @@
     },
     {
         "resort": "campo-felice",
+        "url": "https://www.campofelice.it/ita/impianti.php",
         "lifts": [
             {
                 "name": "Seggiovia Brecciara",
@@ -1478,6 +1510,7 @@
     },
     {
         "resort": "canada-olympic-park",
+        "url": "https://www.winsport.ca/winsport-info/hill-report/",
         "lifts": [
             {
                 "name": "West Road Access",
@@ -1487,10 +1520,11 @@
     },
     {
         "resort": "cannon",
+        "url": "https://www.cannonmt.com/trails-lifts",
         "lifts": [
             {
                 "name": "Aerial Tramway",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Cannonball Quad Chair",
@@ -1518,11 +1552,11 @@
             },
             {
                 "name": "Mittersill Double",
-                "status": "Closed"
+                "status": "Open"
             },
             {
                 "name": "Valar T-Bar",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Huckerbrook Handle Tow",
@@ -1532,6 +1566,7 @@
     },
     {
         "resort": "cataloochee",
+        "url": "https://cataloochee.com/the-mountain/snow-report/",
         "lifts": [
             {
                 "name": "Beginners Luck (Conveyor)",
@@ -1557,10 +1592,12 @@
     },
     {
         "resort": "catedral",
+        "url": "https://partediario.catedralaltapatagonia.com/partediario/#nav-medios-tab",
         "lifts": []
     },
     {
         "resort": "cervino",
+        "url": "https://www.cervinia.it/en/impianti",
         "lifts": [
             {
                 "name": "Breuil-plan Maison",
@@ -2178,54 +2215,58 @@
     },
     {
         "resort": "claviere",
+        "url": "https://www.vialattea.it/Ski-Area/Courses-and-lifts/Lift-and-Trails-Report",
         "lifts": []
     },
     {
         "resort": "sansicario",
+        "url": "https://www.vialattea.it/Ski-Area/Courses-and-lifts/Lift-and-Trails-Report",
         "lifts": []
     },
     {
         "resort": "chamonix",
+        "url": "https://www.chamonix.net/english/lift-systems",
         "lifts": []
     },
     {
         "resort": "chinapeak",
+        "url": "https://www.skichinapeak.com/conditions",
         "lifts": [
             {
                 "name": "Chair 1",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Chair 2",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Chair 4",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Chair 5",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Chair 6",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Chair 7",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Kids Carpet",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Boulder Carpet",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Juniper Carpet",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Tubing Hill Not Available This Season",
@@ -2239,6 +2280,7 @@
     },
     {
         "resort": "civetta",
+        "url": "https://www.dolomitisuperski.com/it/Scopri/Zone-sciistiche/Civetta/Impianti",
         "lifts": [
             {
                 "name": "Alleghe/Piani di Pezz\u00c3\u00a8",
@@ -2348,6 +2390,7 @@
     },
     {
         "resort": "copper",
+        "url": "https://www.coppercolorado.com/the-mountain/trail-lift-info/winter-trail-report",
         "lifts": [
             {
                 "name": "Super Bee",
@@ -2445,10 +2488,12 @@
     },
     {
         "resort": "coronetpeak",
+        "url": "https://www.coronetpeak.co.nz/weather-report/",
         "lifts": []
     },
     {
         "resort": "cortina-d-ampezzo",
+        "url": "https://www.dolomitisuperski.com/it/Scopri/Zone-sciistiche/Cortina-d-Ampezzo/Impianti",
         "lifts": [
             {
                 "name": "Falzarego - Lagazuoi",
@@ -2476,11 +2521,11 @@
             },
             {
                 "name": "Croda Negra",
-                "status": "Closed"
+                "status": "Open"
             },
             {
                 "name": "Fedare",
-                "status": "Closed"
+                "status": "Open"
             },
             {
                 "name": "Skyline Cortina",
@@ -2520,7 +2565,7 @@
             },
             {
                 "name": "Col Drusci\u00c3\u00a8 /Ra Valles",
-                "status": "Closed"
+                "status": "Open"
             },
             {
                 "name": "Ra Valles/Cima Tofana",
@@ -2598,10 +2643,12 @@
     },
     {
         "resort": "courchevel",
+        "url": "https://courchevel.com",
         "lifts": []
     },
     {
         "resort": "cranmore-mountain",
+        "url": "https://cranmore.com/snow-report",
         "lifts": [
             {
                 "name": "C-More Double",
@@ -2609,7 +2656,7 @@
             },
             {
                 "name": "Flying Carpet",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Lookout Triple",
@@ -2617,11 +2664,11 @@
             },
             {
                 "name": "Magic Carpet",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Schneider Triple",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Skimobile Express",
@@ -2633,7 +2680,7 @@
             },
             {
                 "name": "Giant Swing",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Mountain Coaster",
@@ -2641,16 +2688,17 @@
             },
             {
                 "name": "Soaring Eagle",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Tubing Park",
-                "status": "Open"
+                "status": "Closed"
             }
         ]
     },
     {
         "resort": "cransmontana",
+        "url": "http://www.crans-montana.ch/hiver/fr/etat_des_pistes_et_installations/",
         "lifts": [
             {
                 "name": "Row Nom",
@@ -2660,71 +2708,73 @@
     },
     {
         "resort": "crested-butte",
+        "url": "https://www.skicb.com/the-mountain/mountain-conditions/lift-and-terrain-status.aspx",
         "lifts": [
             {
                 "name": "Aspen Carpet",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "East River Express",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Gold Link Lift",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "High Lift T-Bar",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "North Face Lift T-Bar",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Painter Boy Lift",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Paradise Express",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Peachtree Lift",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Pine Carpet",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Prospect Lift",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Red Lady Express",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Silver Queen Express",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Spruce Carpet",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Teocalli Lift",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "West Wall Lift",
-                "status": "Open"
+                "status": "Scheduled"
             }
         ]
     },
     {
         "resort": "crystal-mountain",
+        "url": "https://www.crystalmountainresort.com/the-mountain/mountain-report-and-webcams#/",
         "lifts": [
             {
                 "name": "Mt. Rainier Gondola",
@@ -2760,11 +2810,11 @@
             },
             {
                 "name": "Quicksilver",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Gold Hills",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Discovery Conveyor",
@@ -2774,10 +2824,12 @@
     },
     {
         "resort": "cypress-mountain",
+        "url": "https://cypressmountain.com/downhill-conditions-and-cams",
         "lifts": []
     },
     {
         "resort": "deer-valley",
+        "url": "https://www.deervalley.com/explore-the-mountain/mountain-report#/lifts",
         "lifts": [
             {
                 "name": "Aurora",
@@ -2805,11 +2857,11 @@
             },
             {
                 "name": "Hoodoo Express",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Jordanelle Express Gondola",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Judge",
@@ -2829,7 +2881,7 @@
             },
             {
                 "name": "Mountaineer Express",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Northside Express",
@@ -2879,14 +2931,17 @@
     },
     {
         "resort": "devils-head",
+        "url": "https://www.devilsheadresort.com/the-mountain/snow-report/",
         "lifts": []
     },
     {
         "resort": "diamondpeak",
+        "url": "https://www.diamondpeak.com/mountain/conditions",
         "lifts": []
     },
     {
         "resort": "falls-creek",
+        "url": "https://www.fallscreek.com.au/snowreport/",
         "lifts": [
             {
                 "name": "Boardwalk",
@@ -2952,13 +3007,10 @@
     },
     {
         "resort": "flims-laax-falera",
+        "url": "https://live.flimslaax.com/en/lifts",
         "lifts": [
             {
                 "name": "Caumasee",
-                "status": "Open"
-            },
-            {
-                "name": "FlemXpress Flims - Foppa",
                 "status": "Open"
             },
             {
@@ -2979,6 +3031,10 @@
             },
             {
                 "name": "Falera - Curnius",
+                "status": "Scheduled"
+            },
+            {
+                "name": "FlemXpress Flims - Foppa",
                 "status": "Scheduled"
             },
             {
@@ -3062,21 +3118,22 @@
                 "status": "Scheduled"
             },
             {
-                "name": "Spalegna",
-                "status": "Closed"
-            },
-            {
                 "name": "Vorab Gletscher I links",
-                "status": "Closed"
+                "status": "Scheduled"
             },
             {
                 "name": "Vorab Gletscher II rechts",
+                "status": "Scheduled"
+            },
+            {
+                "name": "Spalegna",
                 "status": "Closed"
             }
         ]
     },
     {
         "resort": "folgaria",
+        "url": "https://www.alpecimbra.it/it/ski-area-alpe-cimbra/ski-area-alpe-cimbra/impianti-ski-area-folgaria-fiorentini/120-0.html",
         "lifts": [
             {
                 "name": "Fiorentini",
@@ -3182,6 +3239,7 @@
     },
     {
         "resort": "folgarida-marilleva",
+        "url": "https://www.campigliodolomiti.it/lang/EN/pagine/dettaglio/meteo_e_impianti,157/lifts_and_slopes_in_real_time,81.html",
         "lifts": [
             {
                 "name": "Folgarida",
@@ -3279,6 +3337,7 @@
     },
     {
         "resort": "forni",
+        "url": "https://www.turismofvg.it/montagna/infoneve?hub=forni&day=today&type=4",
         "lifts": [
             {
                 "name": "101 Seggiovia Varmost 1 - 4 posti",
@@ -3294,7 +3353,7 @@
             },
             {
                 "name": "104 Tappeto Campo Scuola",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "105 Seggiovia Cimacuta - 3 posti",
@@ -3302,28 +3361,31 @@
             },
             {
                 "name": "106 Tappeto Davost",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "107 Sciovia Davost",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "108 Tappeto Primi Passi",
-                "status": "Open"
+                "status": "Closed"
             }
         ]
     },
     {
         "resort": "gore-mountain",
+        "url": "https://goremountain.com/the-mountain/conditions/",
         "lifts": []
     },
     {
         "resort": "grand-targhee",
+        "url": "https://www.grandtarghee.com/the-mountain/snow-report/",
         "lifts": []
     },
     {
         "resort": "grouse",
+        "url": "http://www.grousemountain.com/current_conditions",
         "lifts": [
             {
                 "name": "Olympic Express High-Speed Quad Chair",
@@ -3353,10 +3415,11 @@
     },
     {
         "resort": "gunstock",
+        "url": "http://www.gunstock.com/on-snow/snow-report/",
         "lifts": [
             {
                 "name": "E.Z. Carpet",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Panorama",
@@ -3380,7 +3443,7 @@
             },
             {
                 "name": "Tubing Carpet",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Wonder Carpet",
@@ -3390,78 +3453,79 @@
     },
     {
         "resort": "heavenly",
+        "url": "https://www.skiheavenly.com/the-mountain/mountain-conditions/terrain-and-lift-status.aspx",
         "lifts": [
             {
                 "name": "Bear Cave",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Big Easy",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Boulder",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Boulder Carpet",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Canyon",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Comet",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Dipper",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "DMZ",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Enchanted Forest",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "First Ride",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Galaxy",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Gondola",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Groove",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Gunbarrel",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Mott",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "North Bowl",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Olympic",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Patsy's",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Pioneer",
@@ -3469,31 +3533,31 @@
             },
             {
                 "name": "Powderbowl",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Red Fir",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Sky",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Stagecoach",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Tamarack",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "The Tram",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Tube Lift",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "World Cup",
@@ -3503,6 +3567,7 @@
     },
     {
         "resort": "hochfuegen",
+        "url": "https://www.hochfuegenski.com/live-aktuelles/geoeffnete-lifte-pisten/",
         "lifts": [
             {
                 "name": "8er Jet Hochf\u00c3\u00bcgen",
@@ -3522,7 +3587,7 @@
             },
             {
                 "name": "DSL Pfaffenb\u00c3\u00bchel",
-                "status": "Closed"
+                "status": "Open"
             },
             {
                 "name": "SL Pfaffenb\u00c3\u00bchel II",
@@ -3594,11 +3659,11 @@
             },
             {
                 "name": "\u00c3\u0096felerbahn",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Panoramalift",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Hirschbichllift",
@@ -3654,16 +3719,18 @@
             },
             {
                 "name": "Mizunbahn",
-                "status": "Open"
+                "status": "Closed"
             }
         ]
     },
     {
         "resort": "homewood",
+        "url": "http://www.skihomewood.com//mountain/snow-report/",
         "lifts": []
     },
     {
         "resort": "hoodoo",
+        "url": "https://skihoodoo.com/the-mountain/mountain-lift-status/",
         "lifts": [
             {
                 "name": "LIFT",
@@ -3697,14 +3764,15 @@
     },
     {
         "resort": "hunter",
+        "url": "https://www.huntermtn.com/the-mountain/mountain-conditions/lift-and-terrain-status.aspx",
         "lifts": [
             {
                 "name": "20th Century (C Lift)",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Broadway (B Lift)",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "D Lift",
@@ -3716,11 +3784,11 @@
             },
             {
                 "name": "F Lift",
-                "status": "Scheduled"
+                "status": "Closed"
             },
             {
                 "name": "Frostland Carpet",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "H Lift",
@@ -3728,93 +3796,96 @@
             },
             {
                 "name": "Hunter East Carpet",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Kaatskill Flyer",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Northern Express",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Otis Quad",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Tubing Carpet",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Zephyr Express",
-                "status": "Open"
+                "status": "Closed"
             }
         ]
     },
     {
         "resort": "ischgl-silvretta-arena",
+        "url": "https://www.ischgl.com/en/Active/Active-Winter/Skiing-in-Ischgl/Slopes-Facilities",
         "lifts": []
     },
     {
         "resort": "jackson-hole",
+        "url": "https://www.jacksonhole.com/maps/mountain-winter",
         "lifts": [
             {
                 "name": "Teton Quad",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Eagle's Rest Quad",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Moose Creek Quad",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Sweetwater Gondola",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Apres Vous Quad",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Teewinot Quad",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Union Pass Quad",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Marmot Double",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Casper Quad",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Sublette Quad",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Aerial Tram",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Bridger Gondola",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Thunder Quad",
-                "status": "Open"
+                "status": "Scheduled"
             }
         ]
     },
     {
         "resort": "jay-peak",
+        "url": "https://jaypeakresort.com/skiing-riding/snow-report-maps/snow-report",
         "lifts": [
             {
                 "name": "Aerial Tram",
@@ -3856,156 +3927,160 @@
     },
     {
         "resort": "jiminypeak",
+        "url": "http://www.jiminypeak.com/The-Mountain/Mountain-Information/Snow-Report",
         "lifts": []
     },
     {
         "resort": "june-mountain",
+        "url": "https://www.junemountain.com/mountain-information/mountain-report#/",
         "lifts": [
             {
                 "name": "J1",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "J2",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "J3",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "J4",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "J6",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "J7",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Public Carpet",
-                "status": "Open"
+                "status": "Closed"
             }
         ]
     },
     {
         "resort": "keystone",
+        "url": "https://www.keystoneresort.com/the-mountain/mountain-conditions/terrain-and-lift-status.aspx",
         "lifts": [
             {
                 "name": "A-51",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Bergman Express",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Cadillac",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Discovery",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Double Barrel 1",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Double Barrel 2",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Kokomo",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Mid-Station Ski School",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Montezuma Express",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Outback Express",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Outpost Gondola",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Peru Express",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Ranger",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "River Run Gondola",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Ruby Express",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Santiago Express",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Summit Express",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Sun Kid",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Triangle",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Tubing Hill",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Wayback",
-                "status": "Open"
+                "status": "Scheduled"
             }
         ]
     },
     {
         "resort": "killington",
+        "url": "https://www.killington.com/the-mountain/conditions-weather/lifts-trails-report",
         "lifts": [
             {
                 "name": "Canyon Quad",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Tubing Park Tow",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Sunrise Village Triple",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "South Ridge Quad",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Bear Mountain Quad",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Snowshed Express Quad",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Snowshed  Double",
@@ -4013,11 +4088,11 @@
             },
             {
                 "name": "Learn To Carpet",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Ramshead Express Quad",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Progression Carpet II",
@@ -4025,15 +4100,15 @@
             },
             {
                 "name": "Progression Carpet I",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "K-1 Express Gondola",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "North Ridge Quad",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Snowdon Triple",
@@ -4041,36 +4116,37 @@
             },
             {
                 "name": "Snowdon Six Express",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Superstar Express Quad",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Skyeship Express Gondola Stage II",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Skyeship Express Gondola Stage I",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Skye Peak Express Quad",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Northbrook Quad",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Needles Eye Express Quad",
-                "status": "Open"
+                "status": "Closed"
             }
         ]
     },
     {
         "resort": "king-pine",
+        "url": "http://www.kingpine.com/snow-report-conditions",
         "lifts": [
             {
                 "name": "Bear Rug Carpet",
@@ -4096,80 +4172,71 @@
     },
     {
         "resort": "kirkwood",
+        "url": "https://www.kirkwood.com/the-mountain/mountain-conditions/terrain-and-lift-status.aspx",
         "lifts": [
             {
                 "name": "#1 Snowkirk",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "#10 The Wall",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "#11 The Reut",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "#12 Ski School Magic Carpet",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "#13 Public Magic Carpet",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "#14 Vista T-Bar",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "#2 Caples Crest",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "#3 Iron Horse",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "#4 Sunrise",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "#5 Solitude",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "#6 Cornice Express",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "#7 TC Express",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "#9 Bunny",
-                "status": "Open"
+                "status": "Scheduled"
             }
         ]
     },
     {
         "resort": "kitzbuehel",
+        "url": "https://www.kitzski.at/en/skiarea-tyrol/the-kitzbuehel-kirchberg-ski-area-in-tirol-kitzski-is-calling.html",
         "lifts": []
     },
     {
         "resort": "lamolina",
+        "url": "https://www.lamolina.cat/en/winter/resort/snow-report",
         "lifts": [
-            {
-                "name": "TS Roc Blanc",
-                "status": "Open"
-            },
-            {
-                "name": "TSC Torrent Negre",
-                "status": "Open"
-            },
-            {
-                "name": "TSC Trampol\u00c3\u00ad",
-                "status": "Open"
-            },
             {
                 "name": "TSC Pista Llarga",
                 "status": "Open"
@@ -4181,6 +4248,18 @@
             {
                 "name": "TSC El Llac",
                 "status": "Closed"
+            },
+            {
+                "name": "TS Roc Blanc",
+                "status": "Open"
+            },
+            {
+                "name": "TSC Torrent Negre",
+                "status": "Open"
+            },
+            {
+                "name": "TSC Trampol\u00c3\u00ad",
+                "status": "Open"
             },
             {
                 "name": "CT Johan Cruyff",
@@ -4207,15 +4286,15 @@
                 "status": "Open"
             },
             {
+                "name": "TQ Sant Jordi",
+                "status": "Closed"
+            },
+            {
                 "name": "TQ Pedr\u00c3\u00b3",
                 "status": "Closed"
             },
             {
                 "name": "TQ. Set Fonts",
-                "status": "Closed"
-            },
-            {
-                "name": "TQ Sant Jordi",
                 "status": "Closed"
             },
             {
@@ -4230,10 +4309,12 @@
     },
     {
         "resort": "laplagne",
+        "url": "https://www.laplagneresort.com/",
         "lifts": []
     },
     {
         "resort": "larosiere",
+        "url": "https://www.larosiere.net/en/slopes-opening/",
         "lifts": [
             {
                 "name": "TSD ROCHES NOIRES",
@@ -4399,6 +4480,7 @@
     },
     {
         "resort": "lavarone",
+        "url": "https://www.alpecimbra.it/it/ski-area-alpe-cimbra/ski-area-alpe-cimbra/impianti-ski-center-lavarone/159-0.html",
         "lifts": [
             {
                 "name": "Vesan",
@@ -4460,6 +4542,7 @@
     },
     {
         "resort": "lesarcs",
+        "url": "https://en.lesarcs.com/lifts-slopes-status.html",
         "lifts": [
             {
                 "name": "2300",
@@ -4503,7 +4586,7 @@
             },
             {
                 "name": "Funiculaire",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Arpette",
@@ -4543,7 +4626,7 @@
             },
             {
                 "name": "Dahu",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Transarc 1",
@@ -4651,7 +4734,7 @@
             },
             {
                 "name": "Cabriolet",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Droset",
@@ -4677,6 +4760,7 @@
     },
     {
         "resort": "lesmenuires",
+        "url": "https://lesmenuires.com",
         "lifts": [
             {
                 "name": "Masse 1",
@@ -4798,6 +4882,7 @@
     },
     {
         "resort": "loon",
+        "url": "https://www.loonmtn.com/mountain-report",
         "lifts": [
             {
                 "name": "North Peak Express Quad",
@@ -4809,11 +4894,11 @@
             },
             {
                 "name": "River's Edge Double",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Timbertown Quad",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Tote Road Connector",
@@ -4837,7 +4922,7 @@
             },
             {
                 "name": "East Basin Double",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "White Mountain Express Gondola",
@@ -4855,6 +4940,7 @@
     },
     {
         "resort": "loveland",
+        "url": "https://skiloveland.com/trail-lift-report/",
         "lifts": [
             {
                 "name": "Rainbow Magic Carpet - OPEN",
@@ -4900,6 +4986,7 @@
     },
     {
         "resort": "mad-river-glen",
+        "url": "https://www.madriverglen.com/conditions/",
         "lifts": [
             {
                 "name": "Single Chair",
@@ -4911,11 +4998,11 @@
             },
             {
                 "name": "Birdland Double Chair",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Practice Slope Chair",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Callie's Corner Handle Tow",
@@ -4925,6 +5012,7 @@
     },
     {
         "resort": "madonna-di-campiglio",
+        "url": "https://www.campigliodolomiti.it/lang/EN/pagine/dettaglio/meteo_e_impianti,157/lifts_and_slopes_in_real_time,81.html",
         "lifts": [
             {
                 "name": "Pradalago",
@@ -5010,74 +5098,75 @@
     },
     {
         "resort": "mammoth-lakes",
+        "url": "https://www.mammothmountain.com/on-the-mountain/mountain-report#lifts-and-trails",
         "lifts": [
             {
                 "name": "Broadway Express 1",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Stump Alley Express 2",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Face Lift Express 3",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Roller Coaster Express 4",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "High 5 Express",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Unbound Express 6",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Chair 7",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Chair 8",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Cloud Nine Express 9",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Gold Rush Express 10",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Discovery Express 11",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Chair 12",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Chair 13",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Chair 14",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Eagle Express 15",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Canyon Express 16",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Schoolyard Express 17",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Chair 20",
@@ -5085,40 +5174,42 @@
             },
             {
                 "name": "Chair 21",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Chair 22",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Chair 23",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Chair 25",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Panorama Lower",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Panorama Upper",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Village Gondola",
-                "status": "Open"
+                "status": "Scheduled"
             }
         ]
     },
     {
         "resort": "manning-park",
+        "url": "https://www.manningpark.com/weather-webcams-and-trail-status/",
         "lifts": []
     },
     {
         "resort": "megeve",
+        "url": "https://megeve.com",
         "lifts": [
             {
                 "name": "Tph Rochebrune",
@@ -5242,7 +5333,7 @@
             },
             {
                 "name": "Tk Des Loyers",
-                "status": "Scheduled"
+                "status": "Closed"
             },
             {
                 "name": "Tc De La Gorge",
@@ -5274,7 +5365,7 @@
             },
             {
                 "name": "Tk De Roselette",
-                "status": "Scheduled"
+                "status": "Closed"
             },
             {
                 "name": "Tk Du Signal",
@@ -5340,6 +5431,7 @@
     },
     {
         "resort": "meribel",
+        "url": "https://ski-resort.meribel.net/",
         "lifts": [
             {
                 "name": "Rhodos 1",
@@ -5447,7 +5539,7 @@
             },
             {
                 "name": "Chalets",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Combes 1",
@@ -5517,10 +5609,12 @@
     },
     {
         "resort": "monarch",
+        "url": "https://www.skimonarch.com/conditions/",
         "lifts": []
     },
     {
         "resort": "tremblant",
+        "url": "https://www.tremblant.ca/mountain-village/mountain-report#/lifts",
         "lifts": [
             {
                 "name": "T\u00c3\u00a9l\u00c3\u00a9cabine Express",
@@ -5572,7 +5666,7 @@
             },
             {
                 "name": "T\u00c3\u00a9l\u00c3\u00a9cabine Casino Express",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Cabriolet",
@@ -5582,6 +5676,7 @@
     },
     {
         "resort": "monte-amiata",
+        "url": "https://amiataneve.it/",
         "lifts": [
             {
                 "name": "Seggiovia Cantore",
@@ -5611,6 +5706,7 @@
     },
     {
         "resort": "monte-bondone",
+        "url": "https://www.skimontebondone.it/skiarea/skiarea-monte-bondone/impianti-e-piste/",
         "lifts": [
             {
                 "name": "3 - Tre",
@@ -5632,6 +5728,7 @@
     },
     {
         "resort": "monterosa",
+        "url": "https://visitmonterosa.com/in-tempo-reale/skirama/monterosa-ski-3-valli",
         "lifts": [
             {
                 "name": "CREST-ALPE OSTAFA III",
@@ -5707,11 +5804,11 @@
             },
             {
                 "name": "PIANALUNGA-BOCCHETTA",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "WOLD 2",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "TAPIS ROULANT WOLD",
@@ -5729,14 +5826,17 @@
     },
     {
         "resort": "montegenevre",
+        "url": "https://www.vialattea.it/Ski-Area/Courses-and-lifts/Lift-and-Trails-Report",
         "lifts": []
     },
     {
         "resort": "morzine",
+        "url": "https://en.morzine-avoriaz.com/ski-lift-opening.html",
         "lifts": []
     },
     {
         "resort": "mtbachelor",
+        "url": "https://www.mtbachelor.com/the-mountain/weather-operations/lift-trail-report",
         "lifts": [
             {
                 "name": "First Rays",
@@ -5752,15 +5852,15 @@
             },
             {
                 "name": "Outback",
-                "status": "Hold"
+                "status": "Scheduled"
             },
             {
                 "name": "Northwest",
-                "status": "Hold"
+                "status": "Scheduled"
             },
             {
                 "name": "Sunrise",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Summit",
@@ -5768,60 +5868,64 @@
             },
             {
                 "name": "Rainbow",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Lava Tube",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Chipmunk Carpet",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Early Riser",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Cloudchaser",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Alpenglow",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Skyliner Express",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Red Chair",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Pine Marten",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Little Pine",
-                "status": "Open"
+                "status": "Scheduled"
             }
         ]
     },
     {
         "resort": "mt-buller",
+        "url": "https://www.mtbuller.com.au/Winter/snow-weather/snow-report/lift-run-report",
         "lifts": []
     },
     {
         "resort": "mthood",
+        "url": "https://www.skihood.com/the-mountain/conditions",
         "lifts": []
     },
     {
         "resort": "mt-hotham",
+        "url": "https://www.mthotham.com.au/on-mountain/conditions/lifts-terrain",
         "lifts": []
     },
     {
         "resort": "mtpeter",
+        "url": "https://mtpeter.com/snow-report",
         "lifts": [
             {
                 "name": "Carpet Lift (Snowbasin)",
@@ -5829,89 +5933,92 @@
             },
             {
                 "name": "Comet",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Ol' Pete",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "The Patriot",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "High Point Carpet",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Valley View Carpet",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Tubing",
-                "status": "Open"
+                "status": "Closed"
             }
         ]
     },
     {
         "resort": "mtrose",
+        "url": "https://skirose.com/snow-report/",
         "lifts": [
             {
                 "name": "Northwest Express",
-                "status": "Hold"
+                "status": "Scheduled"
             },
             {
                 "name": "Zephyr Express",
-                "status": "Hold"
+                "status": "Scheduled"
             },
             {
                 "name": "Lakeview Express",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Wizard",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Magic East",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Magic West",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Galena",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Chuter",
-                "status": "Scheduled"
+                "status": "Closed"
             }
         ]
     },
     {
         "resort": "mt-seymour",
+        "url": "https://mtseymour.ca/todays-conditions-hours",
         "lifts": []
     },
     {
         "resort": "mountsnow",
+        "url": "https://mountsnow.com/the-mountain/mountain-conditions/lift-and-terrain-status.aspx",
         "lifts": [
             {
                 "name": "Apollo",
-                "status": "Open"
-            },
-            {
-                "name": "Bear Trap",
                 "status": "Scheduled"
             },
             {
+                "name": "Bear Trap",
+                "status": "Closed"
+            },
+            {
                 "name": "Bluebird Express",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Canyon Express",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Challenger",
@@ -5923,7 +6030,7 @@
             },
             {
                 "name": "Discovery Shuttle",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Ego Alley",
@@ -5931,11 +6038,11 @@
             },
             {
                 "name": "Gemini",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Grand Summit Express",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Grommet",
@@ -5943,40 +6050,41 @@
             },
             {
                 "name": "Heavy Metal",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Mercury",
-                "status": "Scheduled"
+                "status": "Closed"
             },
             {
                 "name": "Nitro Express",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Outpost",
-                "status": "Scheduled"
+                "status": "Closed"
             },
             {
                 "name": "Seasons",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Sunbrook Express",
-                "status": "Scheduled"
+                "status": "Closed"
             },
             {
                 "name": "Sundance Express",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Voyager",
-                "status": "Scheduled"
+                "status": "Closed"
             }
         ]
     },
     {
         "resort": "mount-sunapee",
+        "url": "https://www.mountsunapee.com/the-mountain/mountain-conditions/lift-and-terrain-status.aspx",
         "lifts": [
             {
                 "name": "Clipper Ship Quad",
@@ -5988,7 +6096,7 @@
             },
             {
                 "name": "Little Carpet",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Middle Carpet",
@@ -6014,18 +6122,19 @@
     },
     {
         "resort": "mthigh",
+        "url": "http://www.mthigh.com/site/trails-and-conditions/conditions/alpine-grooming/@@alpine-grooming",
         "lifts": [
             {
                 "name": "Blue Ridge Express",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Conquest",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Coyote",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Exhibition",
@@ -6033,19 +6142,19 @@
             },
             {
                 "name": "Moving Carpet West Long",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Moving Carpet West Short",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Roadrunner",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Snowflake",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Competition",
@@ -6075,6 +6184,7 @@
     },
     {
         "resort": "mtbrighton",
+        "url": "https://www.mtbrighton.com",
         "lifts": [
             {
                 "name": "Bunny",
@@ -6184,10 +6294,12 @@
     },
     {
         "resort": "mt-spokane",
+        "url": "https://www.mtspokane.com/trail-reports/",
         "lifts": []
     },
     {
         "resort": "niseko",
+        "url": "http://www.niseko.ne.jp/en/niseko-lift-status/",
         "lifts": [
             {
                 "name": "Annupuri Gondola",
@@ -6301,22 +6413,23 @@
     },
     {
         "resort": "northstar",
+        "url": "https://www.northstarcalifornia.com/the-mountain/mountain-conditions/terrain-and-lift-status.aspx",
         "lifts": [
             {
                 "name": "Arrow Express",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Backside Express",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Big Springs Express Gondola",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Comstock Express",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Hemlock Carpet",
@@ -6328,39 +6441,39 @@
             },
             {
                 "name": "Jeffrey Pines Carpet",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Juniper Carpet",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Lookout Link Platter",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Martis Camp Express",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Promised Land Express",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Rendezvous Triple",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Sugar Pine Carpet",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Tahoe Zephyr Express",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "The Big Easy Quad",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "The Spruces Carpet",
@@ -6372,32 +6485,33 @@
             },
             {
                 "name": "Village Express",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Vista Express",
-                "status": "Open"
+                "status": "Closed"
             }
         ]
     },
     {
         "resort": "okemo",
+        "url": "https://www.okemo.com/the-mountain/mountain-conditions/lift-and-terrain-status.aspx",
         "lifts": [
             {
                 "name": "Black Ridge Triple",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Coleman Brook Express Quad",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Evergreen Summit Express",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "F-10 Carpet",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Glades Peak Quad",
@@ -6409,11 +6523,11 @@
             },
             {
                 "name": "Orion's Belt Carpet",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Quantum Six",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Sachem Quad",
@@ -6421,27 +6535,27 @@
             },
             {
                 "name": "Ski and Ride School Carpet",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Skywalker Carpet",
-                "status": "Open"
-            },
-            {
-                "name": "Snowstar Carpet",
-                "status": "Open"
-            },
-            {
-                "name": "Solitude Express Quad",
-                "status": "Open"
-            },
-            {
-                "name": "South Face Express Quad",
                 "status": "Closed"
             },
             {
+                "name": "Snowstar Carpet",
+                "status": "Closed"
+            },
+            {
+                "name": "Solitude Express Quad",
+                "status": "Scheduled"
+            },
+            {
+                "name": "South Face Express Quad",
+                "status": "Scheduled"
+            },
+            {
                 "name": "South Ridge Quad A",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "South Ridge Quad B",
@@ -6449,19 +6563,19 @@
             },
             {
                 "name": "Stargazer",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Starlight",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Sunburst Six",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Sunshine Quad",
-                "status": "Closed"
+                "status": "Scheduled"
             },
             {
                 "name": "The Pull",
@@ -6471,6 +6585,7 @@
     },
     {
         "resort": "ovindoli",
+        "url": "https://ovindolimagnola.it/live.html",
         "lifts": [
             {
                 "name": "B - Topolino 1",
@@ -6502,7 +6617,7 @@
             },
             {
                 "name": "H - Campetto degli Alpini - Monte Freddo",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "M - Fonte Fredda - Monte Freddo",
@@ -6524,10 +6639,12 @@
     },
     {
         "resort": "owlshead",
+        "url": "https://owlshead.com/en/ski-conditions/",
         "lifts": []
     },
     {
         "resort": "paganella",
+        "url": "https://www.paganella.net/it/live/impianti-orari",
         "lifts": [
             {
                 "name": "Andalo - Doss Pel\u00c3\u00a0",
@@ -6543,7 +6660,7 @@
             },
             {
                 "name": "Laghet - Doss (Campo Scuola Laghet)",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Laghet - Prati di Gaggia",
@@ -6625,6 +6742,7 @@
     },
     {
         "resort": "palisades",
+        "url": "https://www.palisadestahoe.com/mountain-information/lift-and-grooming-status",
         "lifts": [
             {
                 "name": "Aerial Tram",
@@ -6746,54 +6864,55 @@
     },
     {
         "resort": "parkcity",
+        "url": "https://www.parkcitymountain.com/the-mountain/mountain-conditions/terrain-and-lift-status.aspx",
         "lifts": [
             {
                 "name": "3 Kings Lift",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "9990 Express",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Bonanza Lift",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Cabriolet",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Crescent Lift",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Day Break",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Dreamcatcher",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Dreamscape",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Eagle Lift",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "First Time Lift",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Flat Iron",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Frostwood Gondola",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "High Meadow",
@@ -6801,124 +6920,126 @@
             },
             {
                 "name": "Iron Mtn. Express",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Jupiter Lift",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "King Con Lift",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "McConkey's Lift",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Mine Cart",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Motherlode Lift",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Mule Train",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Orange Bubble Express",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Over and Out",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "PayDay Lift",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Peak 5",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Pioneer Lift",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Quicksilver Canyons Side",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Quicksilver PC Side",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Red Pine Gondola",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Rip Cord",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Saddleback Express",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Shortcut",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Silver Star Lift",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Silverlode Lift",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Sun Peak Express",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Sunrise",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Super Condor Express",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Sweet Pea",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Thaynes Lift",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Timberline",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Tombstone Express",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Town Lift",
-                "status": "Open"
+                "status": "Scheduled"
             }
         ]
     },
     {
         "resort": "pats-peak",
+        "url": "https://www.patspeak.com/Plan-Your-Visit/Snow-Report.aspx",
         "lifts": []
     },
     {
         "resort": "peio",
+        "url": "https://www.skipejo.it/en/lifts-and-slopes/lifts/",
         "lifts": [
             {
                 "name": "Pejo Fonti - Tarlenta",
@@ -6938,7 +7059,7 @@
             },
             {
                 "name": "Mezoli",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Funifor Pejo 3000",
@@ -6952,6 +7073,7 @@
     },
     {
         "resort": "perisher",
+        "url": "https://www.perisher.com.au/reports-cams/reports/lift-report",
         "lifts": [
             {
                 "name": "Eyre T-Bar",
@@ -6998,7 +7120,7 @@
                 "status": "Closed"
             },
             {
-                "name": "Quad Express (No Foot Passengers)",
+                "name": "Quad Express",
                 "status": "Closed"
             },
             {
@@ -7141,10 +7263,11 @@
     },
     {
         "resort": "piancavallo",
+        "url": "https://www.turismofvg.it/montagna/infoneve?hub=piancavallo&day=today&type=4",
         "lifts": [
             {
                 "name": "101 Tappeto Daini",
-                "status": "Closed"
+                "status": "Open"
             },
             {
                 "name": "102 Tappeto Genzianella",
@@ -7168,7 +7291,7 @@
             },
             {
                 "name": "107 Seggiovia Tremol 2 - 4 posti",
-                "status": "Closed"
+                "status": "Open"
             },
             {
                 "name": "108 Seggiovia Tremol 1 - 4 posti",
@@ -7194,10 +7317,11 @@
     },
     {
         "resort": "pico",
+        "url": "https://www.picomountain.com/the-mountain/conditions-weather/lifts-trails-report",
         "lifts": [
             {
                 "name": "Bonanza Double",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Bonanza Rope Tow",
@@ -7205,32 +7329,33 @@
             },
             {
                 "name": "Little Pico Triple",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Outpost Double",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Knomes Knoll Triple",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Golden Express Quad",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Summit Express Quad",
-                "status": "Open"
+                "status": "Closed"
             }
         ]
     },
     {
         "resort": "pinzolo",
+        "url": "https://www.campigliodolomiti.it/lang/EN/pagine/dettaglio/meteo_e_impianti,157/lifts_and_slopes_in_real_time,81.html",
         "lifts": [
             {
                 "name": "Tulot - Malga Cioca",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Pinzolo - Pra Rodont",
@@ -7288,6 +7413,7 @@
     },
     {
         "resort": "plan-de-corones",
+        "url": "https://www.dolomitisuperski.com/it/Scopri/Zone-sciistiche/Plan-de-Corones/Impianti",
         "lifts": [
             {
                 "name": "Kronplatz 1",
@@ -7411,7 +7537,7 @@
             },
             {
                 "name": "Antermoia",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Sompunt/Sponata-Piculin",
@@ -7429,6 +7555,7 @@
     },
     {
         "resort": "pleasant-mountain",
+        "url": "https://www.pleasantmountain.com/mountain-report",
         "lifts": [
             {
                 "name": "Li'l Pine Beginner Carpet",
@@ -7452,12 +7579,13 @@
             },
             {
                 "name": "Sunnyside Triple",
-                "status": "Open"
+                "status": "Closed"
             }
         ]
     },
     {
         "resort": "pontedilegno-tonale",
+        "url": "https://www.pontedilegnotonale.com/it/ponte-di-legno-tonale-sci/impianti-pontedilegno-tonale/",
         "lifts": [
             {
                 "name": "Roccolo Ventura",
@@ -7583,10 +7711,12 @@
     },
     {
         "resort": "ragged-mountain",
+        "url": "https://www.raggedmountainresort.com/Slopes/",
         "lifts": []
     },
     {
         "resort": "ravascletto-zoncolan",
+        "url": "https://www.turismofvg.it/montagna/infoneve?hub=zoncolan&day=today&type=4",
         "lifts": [
             {
                 "name": "101 Funifor Monte Zoncolan",
@@ -7610,7 +7740,7 @@
             },
             {
                 "name": "106 Seggiovia Cima Tamai - 2 posti",
-                "status": "Closed"
+                "status": "Open"
             },
             {
                 "name": "107 Sciovia Arvenis",
@@ -7622,7 +7752,7 @@
             },
             {
                 "name": "109 Tappeto Cjalcenal",
-                "status": "Closed"
+                "status": "Open"
             },
             {
                 "name": "110 Tappeto Cima Zoncolan",
@@ -7630,11 +7760,11 @@
             },
             {
                 "name": "111 Tappeti Madessa (1,2,3)",
-                "status": "Closed"
+                "status": "Open"
             },
             {
                 "name": "Pradibosco|Skilift",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Pradibosco|Tappeto",
@@ -7644,6 +7774,7 @@
     },
     {
         "resort": "red-lodge-mountain",
+        "url": "https://www.redlodgemountain.com/mountain/snow-report/",
         "lifts": [
             {
                 "name": "Chair Status",
@@ -7653,6 +7784,7 @@
     },
     {
         "resort": "red-mountain",
+        "url": "https://www.redresort.com/report/",
         "lifts": [
             {
                 "name": "Grey Quad",
@@ -7694,6 +7826,7 @@
     },
     {
         "resort": "rio-pusteria-bressanone",
+        "url": "https://www.dolomitisuperski.com/it/Scopri/Zone-sciistiche/Rio-Pusteria-Bressanone/Impianti",
         "lifts": [
             {
                 "name": "Bergbahn",
@@ -7713,7 +7846,7 @@
             },
             {
                 "name": "Gitschberg",
-                "status": "Closed"
+                "status": "Open"
             },
             {
                 "name": "Hinterberg",
@@ -7793,11 +7926,11 @@
             },
             {
                 "name": "L\u00c3\u00bcsen",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Filler",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Terento",
@@ -7807,6 +7940,7 @@
     },
     {
         "resort": "roccaraso",
+        "url": "https://www.roccaraso.net/",
         "lifts": [
             {
                 "name": "Valle delle Gravare",
@@ -7822,7 +7956,7 @@
             },
             {
                 "name": "Aremogna",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Pallottieri",
@@ -7838,7 +7972,7 @@
             },
             {
                 "name": "ValleVerde 2",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Aremogna Crete Rosse",
@@ -7846,7 +7980,7 @@
             },
             {
                 "name": "Crete Rosse 1",
-                "status": "Scheduled"
+                "status": "Open"
             },
             {
                 "name": "Pino Solitario",
@@ -7858,15 +7992,15 @@
             },
             {
                 "name": "Monte Pratello",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Valloncello",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Prato",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Vallone",
@@ -7886,7 +8020,7 @@
             },
             {
                 "name": "Paradiso 2",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Gravare-ToppeTes",
@@ -7900,10 +8034,12 @@
     },
     {
         "resort": "saddleback",
+        "url": "https://www.saddlebackmaine.com/the-mountain/snow--weather/",
         "lifts": []
     },
     {
         "resort": "san-martino-di-castrozza-passo-rolle",
+        "url": "https://www.dolomitisuperski.com/it/Scopri/Zone-sciistiche/San-Martino-di-Castrozza-Passo-Rolle/Impianti",
         "lifts": [
             {
                 "name": "Tappeto trasferimento segg. Castellazzo",
@@ -8013,6 +8149,7 @@
     },
     {
         "resort": "sappada",
+        "url": "https://www.turismofvg.it/montagna/infoneve?hub=sappada&day=today&type=4",
         "lifts": [
             {
                 "name": "101 Seggiovia Monte Siera - 2 posti",
@@ -8020,7 +8157,7 @@
             },
             {
                 "name": "102 Sciovia Creta Forata",
-                "status": "Closed"
+                "status": "Open"
             },
             {
                 "name": "103 Seggiovia Miravalle - 2 posti",
@@ -8044,16 +8181,17 @@
             },
             {
                 "name": "108 Sciovia Campetto 2",
-                "status": "Closed"
+                "status": "Open"
             }
         ]
     },
     {
         "resort": "sasquatch-mountain",
+        "url": "https://sasquatchmountain.ca/lift-runs/",
         "lifts": [
             {
                 "name": "new object by hemlock_resort",
-                "status": "Closed"
+                "status": "Open"
             },
             {
                 "name": "B- Whistlepunk Double",
@@ -8075,6 +8213,7 @@
     },
     {
         "resort": "sauris",
+        "url": "https://www.turismofvg.it/montagna/infoneve?hub=sauris&day=today&type=4",
         "lifts": [
             {
                 "name": "101 Sciovia Richelan",
@@ -8096,14 +8235,17 @@
     },
     {
         "resort": "sauze",
+        "url": "https://www.vialattea.it/Ski-Area/Courses-and-lifts/Lift-and-Trails-Report",
         "lifts": []
     },
     {
         "resort": "schweitzer",
+        "url": "http://www.schweitzer.com/mountain/snow-report/",
         "lifts": []
     },
     {
         "resort": "sella",
+        "url": "https://www.turismofvg.it/montagna/infoneve?hub=sella&day=today&type=4",
         "lifts": [
             {
                 "name": "101 Telecabina Canin - 16 posti",
@@ -8111,11 +8253,11 @@
             },
             {
                 "name": "102 Funifor Prevala - 100 posti",
-                "status": "Closed"
+                "status": "Open"
             },
             {
                 "name": "103 Seggiovia Gilberti - 2 posti",
-                "status": "Closed"
+                "status": "Open"
             },
             {
                 "name": "104 Tappeto Campo Scuola",
@@ -8125,6 +8267,7 @@
     },
     {
         "resort": "serfaus-fiss-ladis",
+        "url": "https://www.serfaus-fiss-ladis.at/en/Winter-holiday/Piste-map-status-ski-area",
         "lifts": [
             {
                 "name": "12er-Bahn",
@@ -8290,14 +8433,17 @@
     },
     {
         "resort": "sestriere",
+        "url": "https://www.vialattea.it/Ski-Area/Courses-and-lifts/Lift-and-Trails-Report",
         "lifts": []
     },
     {
         "resort": "shawnee-mountain",
+        "url": "https://www.shawneemt.com/mountain/snow-report/",
         "lifts": []
     },
     {
         "resort": "sierra",
+        "url": "https://www.sierraattahoe.com/lifts-trails-grooming/",
         "lifts": [
             {
                 "name": "Easy Rider Express",
@@ -8309,7 +8455,7 @@
             },
             {
                 "name": "Fuego Carpet",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Grandview Express",
@@ -8325,15 +8471,15 @@
             },
             {
                 "name": "Tahoe King",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Thunder Gulch Carpet (Ski/Ride School Only)",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Blizzard Mountain Tubing Tow (if trails are open hiking is available)",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Wild Mountain Magic Carpet (Ski/Ride School Only)",
@@ -8341,7 +8487,7 @@
             },
             {
                 "name": "El Dorado",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Short Stuff",
@@ -8359,14 +8505,17 @@
     },
     {
         "resort": "silver-star",
+        "url": "https://www.skisilverstar.com/mountain-info/trail-status/",
         "lifts": []
     },
     {
         "resort": "skiwelt",
+        "url": "https://www.skiwelt.at/dk/liftstatus.html",
         "lifts": []
     },
     {
         "resort": "smuggs",
+        "url": "https://www.smuggs.com/conditions/winter-report/",
         "lifts": [
             {
                 "name": "Mogul Mouse's Magic Lift",
@@ -8390,7 +8539,7 @@
             },
             {
                 "name": "Sterling T-Bar Lift",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Madonna I Lift",
@@ -8398,16 +8547,18 @@
             },
             {
                 "name": "Madonna II Lift",
-                "status": "Open"
+                "status": "Closed"
             }
         ]
     },
     {
         "resort": "snow-valley",
+        "url": "http://www.snow-valley.com/current-conditions/snow-report/",
         "lifts": []
     },
     {
         "resort": "snowbasin",
+        "url": "https://www.snowbasin.com/the-mountain/conditions",
         "lifts": [
             {
                 "name": "Allen Peak Tram",
@@ -8415,7 +8566,7 @@
             },
             {
                 "name": "Strawberry Gondola",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Needles Gondola",
@@ -8455,7 +8606,7 @@
             },
             {
                 "name": "Grizzly Carpet",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Wildcat Handle Tow",
@@ -8465,26 +8616,27 @@
     },
     {
         "resort": "snowbird",
+        "url": "https://www.snowbird.com/the-mountain/mountain-report/lift-trail-report",
         "lifts": [
             {
                 "name": "Baby Thunder",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Aerial Tram",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Gadzoom",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Peruvian",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Chickadee",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Mineral Basin",
@@ -8496,7 +8648,7 @@
             },
             {
                 "name": "Wilbere",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Peruvian Tunnel",
@@ -8504,32 +8656,33 @@
             },
             {
                 "name": "Gad 2",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Little Cloud",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Chickadee Conveyor",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Baby Thunder Conveyor",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Mid-Gad",
-                "status": "Open"
+                "status": "Scheduled"
             }
         ]
     },
     {
         "resort": "snowmass",
+        "url": "https://www.aspensnowmass.com/our-mountains/snowmass/lift-status",
         "lifts": [
             {
                 "name": "Alpine Springs",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Assay Hill Carpet",
@@ -8537,55 +8690,55 @@
             },
             {
                 "name": "High Alpine",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Big Burn",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Cirque Surface Lift",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Sheer Bliss",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Campground",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Assay Hill",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Bear Bottom Carpet",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Elk Camp Chairlift",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Elk Camp Gondola",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Meadows Carpet",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Meadows Lift",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Coney Express",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Sam's Knob",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Scooper",
@@ -8597,20 +8750,21 @@
             },
             {
                 "name": "Treehouse Carpet",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Village Express",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Two Creeks",
-                "status": "Open"
+                "status": "Closed"
             }
         ]
     },
     {
         "resort": "snowshoe",
+        "url": "https://www.snowshoemtn.com/the-mountain/weather-and-trails#mountain-status",
         "lifts": [
             {
                 "name": "Ballhooter",
@@ -8646,7 +8800,7 @@
             },
             {
                 "name": "Powderidge",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Powder Monkey",
@@ -8662,7 +8816,7 @@
             },
             {
                 "name": "Western Express",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Wonder Carpet",
@@ -8672,6 +8826,7 @@
     },
     {
         "resort": "solitude",
+        "url": "https://www.solitudemountain.com/mountain-and-village/conditions-and-maps#/",
         "lifts": [
             {
                 "name": "Link",
@@ -8691,7 +8846,7 @@
             },
             {
                 "name": "Powderhorn II",
-                "status": "Scheduled"
+                "status": "Open"
             },
             {
                 "name": "Sunrise",
@@ -8703,7 +8858,7 @@
             },
             {
                 "name": "Honeycomb Return",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Magic Carpet",
@@ -8713,10 +8868,12 @@
     },
     {
         "resort": "st-anton-am-arlberg",
+        "url": "https://www.stantonamarlberg.com/en/service/lifts-and-pistes",
         "lifts": []
     },
     {
         "resort": "steamboat",
+        "url": "https://www.steamboat.com/the-mountain/mountain-report#/lifts",
         "lifts": [
             {
                 "name": "Steamboat Gondola",
@@ -8728,15 +8885,15 @@
             },
             {
                 "name": "Wild Blue Gondola Upper",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Bar-UE",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Bashor",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Burgess Creek",
@@ -8818,75 +8975,77 @@
     },
     {
         "resort": "stevens",
+        "url": "https://www.stevenspass.com/the-mountain/mountain-conditions/lift-and-terrain-status.aspx",
         "lifts": [
             {
                 "name": "Brooks Express",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Daisy",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Double Diamond",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Hogsback Express",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Jupiter Express",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Kehr's",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Marmot Carpet",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Pika Carpet",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Rope Tow 1",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Rope Tow 2",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Seventh Heaven",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Skyline Express",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Southern Cross",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Tye Mill",
-                "status": "Open"
+                "status": "Closed"
             }
         ]
     },
     {
         "resort": "stowe",
+        "url": "https://www.stowe.com/the-mountain/mountain-conditions/terrain-and-lift-status.aspx",
         "lifts": [
             {
                 "name": "Adventure Carpet",
-                "status": "Scheduled"
+                "status": "Closed"
             },
             {
                 "name": "Adventure Triple",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "FourRunner Quad",
@@ -8894,44 +9053,45 @@
             },
             {
                 "name": "Lookout Double",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Mansfield Gondola",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Meadows Carpet",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Meadows Quad",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Over Easy Gondola",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Sensation Quad",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Sunny Spruce Quad",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Sunrise Lift",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Toll House Double",
-                "status": "Open"
+                "status": "Closed"
             }
         ]
     },
     {
         "resort": "stratton",
+        "url": "https://www.stratton.com/the-mountain/conditions-report#mountain-status",
         "lifts": [
             {
                 "name": "American Express",
@@ -8951,7 +9111,7 @@
             },
             {
                 "name": "Shooting Star",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Snow Bowl Express",
@@ -8963,7 +9123,7 @@
             },
             {
                 "name": "Villager",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Tamarack",
@@ -8971,11 +9131,11 @@
             },
             {
                 "name": "South American",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Solstice",
-                "status": "Scheduled"
+                "status": "Closed"
             },
             {
                 "name": "Theodore Carpet",
@@ -8987,32 +9147,33 @@
             },
             {
                 "name": "Oso Carpet",
-                "status": "Open"
+                "status": "Closed"
             }
         ]
     },
     {
         "resort": "sugarbowl",
+        "url": "https://www.sugarbowl.com/conditions",
         "lifts": [
             {
                 "name": "Lincoln Express",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Disney Express",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Christmas Tree Express",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Nob Hill (Beginner)",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Crow's Peak",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Gondola",
@@ -9020,19 +9181,19 @@
             },
             {
                 "name": "Village Tow",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "White Pine (Beginner)",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Flume Carpet",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Judah Express",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Summit Chair",
@@ -9040,16 +9201,17 @@
             },
             {
                 "name": "Jerome Hill Express",
-                "status": "Open"
+                "status": "Scheduled"
             }
         ]
     },
     {
         "resort": "sugarbush",
+        "url": "https://www.sugarbush.com/mountain/conditions",
         "lifts": [
             {
                 "name": "Castlerock Double",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Gate House Express Quad",
@@ -9065,7 +9227,7 @@
             },
             {
                 "name": "Inverness Quad",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "North Lynx Triple",
@@ -9077,7 +9239,7 @@
             },
             {
                 "name": "Schoolhouse Lift",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Slide Brook Express Quad",
@@ -9101,7 +9263,7 @@
             },
             {
                 "name": "Valley House Quad",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Village Quad",
@@ -9115,6 +9277,7 @@
     },
     {
         "resort": "sugarloaf",
+        "url": "https://www.sugarloaf.com/mountain-report",
         "lifts": [
             {
                 "name": "Moose-calator",
@@ -9122,19 +9285,19 @@
             },
             {
                 "name": "Sawduster",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Snubber",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Skidway",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Double Runner East",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Double Runner West",
@@ -9142,15 +9305,15 @@
             },
             {
                 "name": "SuperQuad",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "CVA/Colby T-Bar",
-                "status": "Closed"
+                "status": "Scheduled"
             },
             {
                 "name": "Skyline",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "#3 T-Bar/Bateau",
@@ -9158,19 +9321,19 @@
             },
             {
                 "name": "Whiffletree SuperQuad",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "King Pine",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Timberline",
-                "status": "Hold"
+                "status": "Closed"
             },
             {
                 "name": "Bucksaw Express",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "West Mountain",
@@ -9180,42 +9343,43 @@
     },
     {
         "resort": "sun-peaks",
+        "url": "http://www.sunpeaksresort.com/ski-ride/weather-conditions-cams/lifts-trail-status",
         "lifts": [
             {
                 "name": "Burfield Chairlift",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Crystal Chairlift",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Elevation Chairlift",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Learning Zone Carpet",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Morrisey Express Chairlift",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Morrisey Platter",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Orient Chairlift",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Sunburst Express Chairlift",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Sundance Express Chairlift",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Tube Time Carpet",
@@ -9231,97 +9395,100 @@
             },
             {
                 "name": "West Bowl Express Chairlift",
-                "status": "Open"
+                "status": "Closed"
             }
         ]
     },
     {
         "resort": "sunvalley",
+        "url": "https://www.sunvalley.com/mountain-snow-report",
         "lifts": []
     },
     {
         "resort": "sunday-river",
+        "url": "https://www.sundayriver.com/mountain-report",
         "lifts": [
             {
                 "name": "Little White Cap Quad #11",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "White Cap Quad #9",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "White Heat Quad #10",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Locke Mountain Triple #4",
-                "status": "Open"
-            },
-            {
-                "name": "Alera Group Competition Lift #5",
                 "status": "Closed"
             },
             {
+                "name": "Alera Group Competition Lift #5",
+                "status": "Scheduled"
+            },
+            {
                 "name": "Barker 6 #1",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Chondola #7",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "South Ridge Express #2",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Lower Sundance Surface Lift #16",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Middle Sundance Surface Lift #17",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Upper Sundance Surface Lift #18",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Merrill Hill Triple #19",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Spruce Peak Triple #8",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "North Peak Express #6",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Aurora Peak Quad #12",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Quantum Leap Triple #3",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "OZ Quad #15",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Jordan 8 Lift #14",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Jordan Mountain Double #13",
-                "status": "Open"
+                "status": "Closed"
             }
         ]
     },
     {
         "resort": "sunshine-village",
+        "url": "https://www.skibanff.com/conditions/",
         "lifts": [
             {
                 "name": "Angel",
@@ -9375,10 +9542,12 @@
     },
     {
         "resort": "soelden",
+        "url": "https://www.soelden.com/winter/live-info/lifts-slopes/lifts-status.html",
         "lifts": []
     },
     {
         "resort": "tahoe-donner",
+        "url": "http://www.tahoedonner.com/amenities/amenities/downhill-ski/trails-conditions/conditions/",
         "lifts": [
             {
                 "name": "Eagle Rock Chairlift",
@@ -9394,7 +9563,7 @@
             },
             {
                 "name": "Learning Center Conveyor",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Magic Carpet",
@@ -9404,10 +9573,12 @@
     },
     {
         "resort": "taos",
+        "url": "https://www.skitaos.com/ski-ride/lifts-trails",
         "lifts": []
     },
     {
         "resort": "tarvisio",
+        "url": "https://www.turismofvg.it/montagna/infoneve?hub=tarvisio&day=today&type=4",
         "lifts": [
             {
                 "name": "101 Telecabina M. Lussari - 8 posti",
@@ -9419,7 +9590,7 @@
             },
             {
                 "name": "102 Seggiovia dell'Angelo - 4 posti",
-                "status": "Closed"
+                "status": "Open"
             },
             {
                 "name": "103 Seggiovia Priesnig - 4 posti",
@@ -9469,6 +9640,7 @@
     },
     {
         "resort": "telluride",
+        "url": "https://tellurideskiresort.com/snow-report",
         "lifts": [
             {
                 "name": "Free Gondola \u00e2\u0080\u0093 Town to MV",
@@ -9476,31 +9648,31 @@
             },
             {
                 "name": "Chondola",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Childrens Magic Carpet",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Adult Magic Carpet",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Village Express",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Polar Queen Express",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Apex Lift",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Lift 7",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Oak Street Lift",
@@ -9508,52 +9680,53 @@
             },
             {
                 "name": "Plunge Lift",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Sunshine Express",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "UTE Park",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Prospect Express",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Lynx",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Gold Hill Express",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Revelation Lift",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "North Meadows Carpet",
-                "status": "Open"
+                "status": "Closed"
             }
         ]
     },
     {
         "resort": "thredbo",
+        "url": "https://www.thredbo.com.au/weather/lifts-trails/",
         "lifts": [
             {
                 "name": "Kosciuszko Chairlift",
-                "status": "Open"
+                "status": "Hold"
             },
             {
                 "name": "Merritts Gondola",
-                "status": "Open"
+                "status": "Hold"
             },
             {
                 "name": "Cruiser Chairlift",
-                "status": "Open"
+                "status": "Hold"
             },
             {
                 "name": "Gunbarrel Chairlift",
@@ -9571,6 +9744,7 @@
     },
     {
         "resort": "tignes",
+        "url": "https://en.tignes.net//skiing/ski-area/ski-map/lifts-and-pistes-live-opening",
         "lifts": [
             {
                 "name": "Tc De Toviere",
@@ -9740,30 +9914,31 @@
     },
     {
         "resort": "timberline-lodge",
+        "url": "https://www.timberlinelodge.com/conditions",
         "lifts": [
             {
                 "name": "BRUNO\u00e2\u0080\u0099S HANDLE TOW",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "PUCCI",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "JEFF FLOOD",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "MOLLY\u00e2\u0080\u0099S",
-                "status": "Hold"
+                "status": "Scheduled"
             },
             {
                 "name": "STORMIN\u00e2\u0080\u0099 NORMAN",
-                "status": "Closed"
+                "status": "Scheduled"
             },
             {
                 "name": "MAGIC MILE",
-                "status": "Closed"
+                "status": "Scheduled"
             },
             {
                 "name": "PALMER CAT SKI",
@@ -9771,20 +9946,21 @@
             },
             {
                 "name": "TIMBER TIGER CONVEYOR (Friday - Sunday only)",
-                "status": "Hold"
+                "status": "Closed"
             },
             {
                 "name": "SUMMIT PASS (closed Tuesdays & Wednesdays)",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "HEIDI\u00e2\u0080\u0099S CONVEYOR AT SUMMIT PASS (closed Tuesdays & Wednesdays)",
-                "status": "Open"
+                "status": "Closed"
             }
         ]
     },
     {
         "resort": "3cime",
+        "url": "https://www.dolomitisuperski.com/it/Scopri/Zone-sciistiche/3-Cime/Impianti",
         "lifts": [
             {
                 "name": "Tre Cime",
@@ -9852,11 +10028,11 @@
             },
             {
                 "name": "Bus - Ski Area Val Comelico - Signaue",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Bus - Ski Area Val Comelico - Val Grande",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Treno Versciaco - Perca",
@@ -9908,56 +10084,57 @@
             },
             {
                 "name": "Kameriot",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Sonnleiten",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Cenerentola",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Col d'la Tenda",
-                "status": "Open"
+                "status": "Closed"
             }
         ]
     },
     {
         "resort": "vail",
+        "url": "https://www.vail.com/the-mountain/mountain-conditions/terrain-and-lift-status.aspx",
         "lifts": [
             {
                 "name": "Avanti Express #2",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Black Forest #27",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Born Free Express #8",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Cascade Village #20",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Eagle Bahn Gondola #19",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Earl's Express #38",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Elvis Bahn #25",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Game Creek Express #7",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Golden Peak T-Bar",
@@ -9965,63 +10142,63 @@
             },
             {
                 "name": "Gondola One",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Gopher Hill #12",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "High Noon Express #5",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Highline Express #10",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Lightning Coyote #18",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Lionshead Magic Carpet #34",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Little Eagle #15",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Mongolia Platter #22",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Mountaintop Express #4",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Northwoods Express #11",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Orient Express #21",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Patty Bahn",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Pete's Express #39",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Pride Express #26",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Rip's Ride Carpet #29",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Riva Bahn Express #6",
@@ -10029,40 +10206,41 @@
             },
             {
                 "name": "Skyline Express #37",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Sourdough Express #14",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Sun Down Express #17",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Sun Up Express #9",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Tea Cup Express #36",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Thunder Cat Carpet #35",
-                "status": "Open"
+                "status": "Scheduled"
             },
             {
                 "name": "Wapiti Platter #24",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Wildwood Express #3",
-                "status": "Open"
+                "status": "Scheduled"
             }
         ]
     },
     {
         "resort": "val-gardena",
+        "url": "https://www.val-gardena.com/en/winter/ski-resort-val-gardena/open-ski-lifts/",
         "lifts": [
             {
                 "name": "Val",
@@ -10364,6 +10542,7 @@
     },
     {
         "resort": "valdisere",
+        "url": "https://www.seevaldisere.com/lifts/status",
         "lifts": [
             {
                 "name": "Funival",
@@ -10517,6 +10696,7 @@
     },
     {
         "resort": "val-di-fassa",
+        "url": "https://www.dolomitisuperski.com/it/Scopri/Zone-sciistiche/Val-di-Fassa/Impianti",
         "lifts": [
             {
                 "name": "Canazei - Pecol",
@@ -10738,6 +10918,7 @@
     },
     {
         "resort": "val-di-fiemme",
+        "url": "https://www.dolomitisuperski.com/it/Scopri/Zone-sciistiche/Val-di-Fiemme/Impianti",
         "lifts": [
             {
                 "name": "Cavalese - Fondovalle",
@@ -10923,6 +11104,7 @@
     },
     {
         "resort": "verbier",
+        "url": "http://www.verbier.ch/mountain-report",
         "lifts": [
             {
                 "name": "La Chaux - Col des Gentianes (Jumbo)",
@@ -11060,10 +11242,11 @@
     },
     {
         "resort": "waterville",
+        "url": "http://www.waterville.com/snow-report-maps",
         "lifts": [
             {
                 "name": "Exhibition Poma",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Green Peak Triple",
@@ -11109,30 +11292,31 @@
     },
     {
         "resort": "whistler-blackcomb",
+        "url": "http://www.whistlerblackcomb.com/the-mountain/lifts-and-grooming/index.aspx",
         "lifts": [
             {
                 "name": "7th Heaven Express",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Blackcomb Gondola Lower",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Blackcomb Gondola Upper",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Bubly Tube Park",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Catskinner Express",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Crystal Ridge Express",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Excalibur Gondola Lower",
@@ -11140,15 +11324,15 @@
             },
             {
                 "name": "Excalibur Gondola Upper",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Excelerator Express",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Glacier Express",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Horstman T-Bar",
@@ -11156,15 +11340,15 @@
             },
             {
                 "name": "Jersey Cream Express",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Magic Chair",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Peak 2 Peak Gondola",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Showcase T-Bar",
@@ -11172,19 +11356,19 @@
             },
             {
                 "name": "Big Red Express",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Creekside Gondola",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Emerald 6 Express",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Fitzsimmons Express",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Franz's Chair",
@@ -11192,44 +11376,46 @@
             },
             {
                 "name": "Garbanzo Express",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Harmony 6 Express",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Olympic Chair",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Peak Express",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Symphony Express",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "T-Bars",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Whistler Village Gondola Lower",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Whistler Village Gondola Upper",
-                "status": "Hold"
+                "status": "Closed"
             }
         ]
     },
     {
         "resort": "whiteface",
+        "url": "https://www.whiteface.com/mountain/conditions",
         "lifts": []
     },
     {
         "resort": "whitefish",
+        "url": "https://skiwhitefish.com/snowreport/",
         "lifts": [
             {
                 "name": "Chair 1 - Big Mountain Express",
@@ -11285,7 +11471,7 @@
             },
             {
                 "name": "T-Bar 2 - Bigfoot",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Big Easy Carpet",
@@ -11299,14 +11485,15 @@
     },
     {
         "resort": "wildcat",
+        "url": "https://www.skiwildcat.com/the-mountain/mountain-conditions/lift-and-terrain-status.aspx",
         "lifts": [
             {
                 "name": "Bobcat",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Snowbelt",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Snowcat",
@@ -11314,24 +11501,26 @@
             },
             {
                 "name": "Tomcat",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Wildcat Express",
-                "status": "Open"
+                "status": "Closed"
             }
         ]
     },
     {
         "resort": "windham",
+        "url": "https://www.windhammountain.com/snow-report/",
         "lifts": []
     },
     {
         "resort": "winter-park",
+        "url": "https://www.winterparkresort.com/the-mountain/weather-dashboard#mountain-status",
         "lifts": [
             {
                 "name": "Arrow",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Cabriolet",
@@ -11339,7 +11528,7 @@
             },
             {
                 "name": "Challenger",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Cirque Sled",
@@ -11383,7 +11572,7 @@
             },
             {
                 "name": "Iron Horse",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Lariat",
@@ -11407,7 +11596,7 @@
             },
             {
                 "name": "Pony Express",
-                "status": "Open"
+                "status": "Closed"
             },
             {
                 "name": "Prospector Express",
@@ -11437,6 +11626,7 @@
     },
     {
         "resort": "winterplace",
+        "url": "http://www.winterplace.com/snow-report",
         "lifts": []
     }
 ]
