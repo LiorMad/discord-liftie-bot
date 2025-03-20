@@ -19,8 +19,3 @@ Then, `liftie-bot.py` simply responds to (slash commands) `/lift <resort>` comma
 For example:
 
 `/lifts` and start typing `loaf`, the bot will filter all resorts with `loaf`, such as `sugarloaf`. 
-
-There is also a (**outdated**) node.js version of the script.
-
-Also added are test files:
-`fetch_lift_status_from_local.py` and `liftie.html`.
