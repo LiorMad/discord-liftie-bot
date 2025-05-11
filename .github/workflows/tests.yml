@@ -14,9 +14,9 @@ env:
     CONTAINER_NAME: discord-liftie-bot
 
 jobs:
-  ci-testing:
+  ci-cd-testing:
     # if: false
-    name: CI Testing
+    name: CI, Testing, CD
     runs-on: [ubuntu-latest]
     steps:
       - name: Checkout Repository
