@@ -14,9 +14,9 @@ env:
     CONTAINER_NAME: discord-liftie-bot
 
 jobs:
-  ci-testing:
+  ci-cd-testing:
     # if: false
-    name: CI Testing
+    name: CI, Testing, CD
     runs-on: [ubuntu-latest]
     steps:
       - name: Checkout Repository
@@ -32,6 +32,7 @@ jobs:
         uses: docker/build-push-action@v6
         id: build_for_test
         with:
+          context: "{{defaultContext}}"
           push: false
           tags: ${{ env.DOCKERHUB_USERNAME }}/${{ env.CONTAINER_NAME }}:${{ github.sha }}
 
@@ -51,6 +52,7 @@ jobs:
           docker exec discord-liftie-bot ls -ltr /app/data/lifts_status.json
 
       - name: Check container status
+        id: check_container_status
         run: |
           container_status=$(docker inspect --format '{{.State.Status}}' ${{ env.CONTAINER_NAME }})
           echo "Container Status: $container_status"
@@ -61,6 +63,7 @@ jobs:
           fi
 
       - name: Check container logs for connection
+        id: check_connection
         run: |
           logs=$(docker logs ${{ env.CONTAINER_NAME }})
           if [[ ! "$logs" =~ "Shard ID None has connected to Gateway" ]]; then
@@ -71,4 +74,10 @@ jobs:
 
       - name: Stop and remove container
         if: always()
-        run: docker stop ${{ env.CONTAINER_NAME }} && docker rm ${{ env.CONTAINER_NAME }}
+        run: docker stop --timeout 3 ${{ env.CONTAINER_NAME }} && docker rm ${{ env.CONTAINER_NAME }}
+
+      - name: Docker Hub push after test pass
+        if: ${{ steps.check_connection.conclusion == 'success' }}
+        run: | 
+          echo Pushing to Dockerhub: ${{ env.DOCKERHUB_USERNAME }}/${{ env.CONTAINER_NAME }}:${{ github.sha }}
+          docker push ${{ env.DOCKERHUB_USERNAME }}/${{ env.CONTAINER_NAME }}:${{ github.sha }}
