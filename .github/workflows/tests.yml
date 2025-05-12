@@ -65,11 +65,10 @@ jobs:
       - name: Check container logs for connection
         id: check_connection
         run: |
-          logs=$(docker logs ${{ env.CONTAINER_NAME }})
-          if [[ ! "$logs" =~ "Shard ID None has connected to Gateway" ]]; then
-            echo "Warning: Could not find 'Shard ID None has connected to Gateway' in the logs. Bot might not have connected."
-            echo "--- Container Logs ---"
-            echo "$logs"
+          # Attempt to get the docker logs and grep for the specific string.
+          if ! docker logs ${{ env.CONTAINER_NAME }} 2>&1 | grep "Shard ID None has connected to Gateway"; then
+            echo "::error::Error: 'Shard ID None has connected to Gateway' message not found in Docker logs."
+            exit 1
           fi
 
       - name: Stop and remove container
