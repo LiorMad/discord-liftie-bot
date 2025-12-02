@@ -14,7 +14,7 @@ Of course, you will need your own `BOT_TOKEN` in some `.env` file, in the follow
 BOT_TOKEN=YOUR_TOKEN_FROM_discord.com/developers/applications
 ```
 
-Then, `liftie-bot.py` simply responds to (slash commands) `/lift <resort>` commands and autocompletes them.
+Then, `liftie-bot.py` responds to (slash commands) `/lift <resort>` commands and autocompletes them.
 
 For example:
 
